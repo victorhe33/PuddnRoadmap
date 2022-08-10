@@ -1,0 +1,43 @@
+﻿title,subtitle,parentResource,optionalLearningResource,optionalLearningText,Calculation
+Log into www.github.com and sign up for a new account,"# Welcome to your first task! 
+This step is all about getting you set up with a very important tool for Puddn. Without it, you can't share code easily and we can't hold you accountable.
+
+## Your mission 
+Simply go to [github.com](www.github.com) and make an account. 
+
+# What is Github? 
+Github is a code repository management platform. There are other great platforms such as GitLab and Bitbucket so feel free to use whatever works best for you if you want. Github (and others) run on an open source technology called Git",Set up a Github account,https://www.w3schools.com/git/git_intro.asp?remote=github,Here is a great explanation for what Git is,Nz2z10F86VS5ZF
+Setting up a public repository using Github,,Create a public Github Repository,https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander,Here is a great tutorial on how to do it,k9ochGcXLFtNqt
+Chapter 1: Linear Algebra,This chapter covers X and Y,Free Textbook for Mathematical Foundations of the book,,,Vuw3inaXRcyrXc
+Chapter 1: LA excercise ,This chapter covers X and Y,Free Textbook for Mathematical Foundations of the book,,,fxOEGNVlr01RLu
+Chapter 2,This chapter covers X and Y,Free Textbook for Mathematical Foundations of the book,,,0xFvmPyC76Hmak
+Chapter 3,This chapter covers X and Y,Free Textbook for Mathematical Foundations of the book,,,iIp5RqkrucgPbM
+Create an HTML page,This video is concerned with giving an overview with CSS,Create an HTML page and connect a CSS stylesheet to it,,,knPUHvsMN4iiw2
+Create a CSS file,,Create an HTML page and connect a CSS stylesheet to it,,,1wrE0xxyCI884C
+"Using the <stylesheet> command, import a stylesheet into the HTML",The link for this resource can be found here: https://www.w3schools.com/css/tryit.asp?filename=trycss_default,Create an HTML page and connect a CSS stylesheet to it,,,hRBonlRq2o0wlD
+"Using HTML, create two text boxes for Username and Password",,Create two boxes for User name and Password,,,yXJhinvKXIjRcf
+Apply a style using the CSS file,,Create two boxes for User name and Password,,,JgSDz0ToTR5TCz
+"Create a button in the HTML file, add the text Log In",,Create a button for Logging In,,,DuKptPjmcRHUwG
+Set the text boxes background colour to a CSS variable ,,Use a CSS variable to create a warning message: if one or both of the text boxes contains spaces and the background colour of the empty text box will change to light yellow.,https://www.youtube.com/watch?v=ZU0wY6L1d7U&ab_channel=DesignCourse,Here is a great resource on introducing you to CSS variables,Fha05ZXUqaejwr
+Check if any of the inputs have empty spaces. If they do - then change the CSS variable value to yellow,,Use a CSS variable to create a warning message: if one or both of the text boxes contains spaces and the background colour of the empty text box will change to light yellow.,,,UF4a5GzcKqITtY
+Initialise a String array,You need to store your words somewhere. An array makes an excellent data store in this case!,Create an array of words to play Hangman with,,,haADBRJRSZWS60
+Add words to your String Array,These are the words you'll be using in your Hangman game,Create an array of words to play Hangman with,https://github.com/powerlanguage/word-lists/blob/master/1000-most-common-words.txt,Need inspiration for words in your game? Here is a list of common English words,0jSDWFWh6zwkAM
+Initialise a project for your chosen programming language ,,Create an empty source file and save it,"https://www.learnpython.org/en/Hello,_World!",Here is a tutorial in Python if you need a hand,sqRbOSnYKSIiYJ
+Just simply look up on Google how to print Hello World for your chosen programming lanuage,,Write code to print out Hello World. Run it and see the output!,"https://www.thesoftwareguild.com/blog/the-history-of-hello-world/#:~:text=Traditionally%2C%20Hello%20World%20programs%20are,World%20both%20easily%20and%20correctly.",What is so special about Hello World anyways?,eKmacslVku0Pqu
+Variables are used to store data in a program. It's important to do a bit of research as to what they are,,Store the user's input into a variable ,https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-variables,CodeAcademy is a great website where you can learn more about variables and experiment with it,bxKJpJinZB7To3
+Write code which can take the user's input and store into a variable,,Store the user's input into a variable ,https://stackabuse.com/getting-user-input-in-python/,Here is a tutorial using Python,O3v3WGcZ1Ja7XV
+"For this, you'll have to store the user's input into a variable",,Store and validate the user's input into a variable,https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-variables,CodeAcademy is a great website where you can learn more about variables and experiment with it,XmuSeOxh8ZyuKM
+"The user's input will have to be specific for this game to work: it can be either Rock, Paper, or Scissors. ",You will have to think about how to let the user know they put the wrong data in. You will also need to think about the format of the user input!,Store and validate the user's input into a variable,"https://favtutor.com/blogs/compare-strings-python#:~:text=In%20python%20programming%20we%20can,s1%20and%20s2%20are%20equal.","If you need a hand, here is a tutorial in Python",Ai79R94sQKIIWL
+"First, take the user's input and compare it to the random input.",,Compare the user's input with the function from Step 2. Let the user know if they won or not,https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow,Here is a resource on learning Conditionals,9muaDd8l2hMkuC
+"If they are the same values, let the user know it's a draw",,Compare the user's input with the function from Step 2. Let the user know if they won or not,,,NGXUUs26CqOatz
+"Rock beats Scissors, Paper beats Rock and Scissors beats Paper. Code this logic and let the user know how they did!",Don't overthink it too much. Just break it up in small steps.,Compare the user's input with the function from Step 2. Let the user know if they won or not,https://www.youtube.com/watch?v=2zRJ1ShMcgA&ab_channel=JoeJames,Enjoyed this? Boolean algebra is the theory that underlines Conditionals and here is a great explanation for it,P61qmPR7egCaGN
+Let the user guess a number. Store it into a variable,,Let the user guess a number between 1 and 10,,,dPIQh9rb44rIcm
+"Check if the input is a number. If it isn't, make them guess again",,Let the user guess a number between 1 and 10,,,VcMamNg6wNNMRW
+"Check if the input is between 1 to 10. If it isn't, make them guess again",,Let the user guess a number between 1 and 10,,,gr3TrKMbfRMOBL
+"If the user gets it right, tell them they won",,Check if the user guesses right. They should have as many chances as you set in Step 2,,,m2KBhvMllBf5RA
+"If the user gets it wrong, subtract the guesses, and let them guess again",,Check if the user guesses right. They should have as many chances as you set in Step 2,,,VkG81yGQwk460Q
+"If the guesses reaches 0, then let the user know they lost",,Check if the user guesses right. They should have as many chances as you set in Step 2,,,dTIW1sjTTD0EQ0
+Set up a CSS framework and import it in,"If you don't have anything in mind, we recommend either [Bootstrap](https://getbootstrap.com/) or [Tailwind](https://tailwindcss.com/)
+Each one has its own installation and set-up pages, so use that to make a start. 
+For example, the official Bootstrap documentation will tell you how to set it up. So let's stick with that. If you can get this far and your web page doesn't crash, you're in the right place",Set up your web page and set up Bootstrap,https://getbootstrap.com/docs/5.2/getting-started/introduction/,The documentation for Bootstrap can be found here,2GuAtlm4TpfVnS
+Initialise a new website by creating a new website,,Set up your web page and set up Bootstrap,,,PtekKzVqSDIsim

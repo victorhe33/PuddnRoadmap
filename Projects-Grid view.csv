@@ -1,0 +1,263 @@
+﻿Name,parentProject,Roadmap,link,BloomTaxonomyTag,Notes,Points
+Set up a Github account,Getting Set Up With Git,Basics,https://www.w3schools.com/git/git_intro.asp?remote=github,phase1,"Welcome to Puddn, and your first step. Github is a very important website to any modern day software developer and is often used as a sign of quality when recruiters look at people's resumes. So let's get this done first
+
+",1
+Create a public Github Repository,Getting Set Up With Git,Basics,"https://www.atlassian.com/git/tutorials/why-git#:~:text=One%20of%20the%20biggest%20advantages,every%20change%20to%20your%20codebase.",phase1,This is an important reading to understanding why Git is so important and useful for your career,1
+Grab the link of your new repository and finish this project,Getting Set Up With Git,Basics,"https://www.atlassian.com/git/tutorials/why-git#:~:text=One%20of%20the%20biggest%20advantages,every%20change%20to%20your%20codebase.",phase1,Finishing off strong here! Let's get your first public repository up. Did you know most programmers don't even have a single repository up? Already off to the races you go!,1
+Create an array of words to play Hangman with,Hangman,Basics,https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org,phase1,Here is a video on Git to introduce you to the concepts,1
+Give your user a number of guesses,Hangman,Basics,,phase1,,1
+Create a function to return a random word from the Array from Step 1,Hangman,Basics,,phase1,,1
+Prompt the user to guess a single character,Hangman,Basics,,phase1,,1
+Check if the letter exists in the word,Hangman,Basics,,phase1,,1
+Let the user guess again until they run out of guesses,Hangman,Basics,,phase1,,1
+End the game if the user runs the game or runs out of guesses,Hangman,Basics,,phase1,,1
+Store the user's input into a variable ,Variables,Basics,https://www.youtube.com/watch?v=Z1Yd7upQsXY&ab_channel=CSDojo,phase1,,1
+"Output the variable in the form of (""Hello "" + variable)",Variables,Basics,https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-variables,phase1,,2
+"Create an array of 3 words: Rock, Papers and Scissors ",Conditionals,Basics,https://www.w3schools.com/python/python_conditions.asp,phase1,,1
+Create a function to return a random word from the Array from Step 1,Conditionals,Basics,,phase1,,
+Store and validate the user's input into a variable,Conditionals,Basics,,phase1,,
+Compare the user's input with the function from Step 2. Let the user know if they won or not,Conditionals,Basics,,phase1,,
+Create an empty source file and save it,Hello World,Basics,,phase1,This article talks about the importance of the phrase and how it's a gateway for any programmer,1
+Write code to print out Hello World. Run it and see the output!,Hello World,Basics,,phase1,,
+Let the user guess a number between 1 and 10,Programming Loops,Basics,https://www.youtube.com/watch?v=wxds6MAtUQ0&ab_channel=Codecademy,phase1,This video will explain the fundamentals of programming: loops,1
+Initialise a variable for the number of guesses a user can make. Call this variable 'guesses',Programming Loops,Basics,https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html,phase1,Pseudocode is a structured way of describing algorithms which is language agnostic (it's not a real programming language.) Here is an algorithm in pseudocode explaining how loops work.,2
+Check if the user guesses right. They should have as many chances as you set in Step 2,Programming Loops,Basics,,phase1,,
+Download a 3rd Party library to download Youtube videos ,"Dependencies, Packages and Libraries",Basics,https://www.youtube.com/watch?v=EmN1Vx08tBw&ab_channel=FredrikChristenson,phase1,,1
+Let the user input a Youtube url into a function provided by the library,"Dependencies, Packages and Libraries",Basics,,phase1,,
+"Take the output of the Youtube video, and download it somewhere on your computer","Dependencies, Packages and Libraries",Basics,,phase1,,
+Creating a Converter class,Classes and Methods,Basics,,phase1,"OK, so our goal with this is to introduce the idea of Classes and Methods. These two concepts can help us simplify and breakdown complex problems into more manageable chunks",
+Create a Method in the Converter class to convert a string in Roman numerals to a number,Classes and Methods,Basics,,phase1,,
+Create a Method in the Converter class to convert a number to a string in Roman numerals,Classes and Methods,Basics,,phase1,,
+Test it out using different inputs,Classes and Methods,Basics,,phase1,,
+How to use a Dependency in Python,,Basics,https://www.youtube.com/watch?v=CqvZ3vGoGs0&ab_channel=CoreySchafer,phase1,,2
+CodeAcademy : Dependencies in Python,,Basics,https://www.codecademy.com/resources/docs/python/modules,phase1,,1
+What are Classes and Objects,,Basics,https://simple.wikipedia.org/wiki/Class_(programming),phase1,,1
+What is Object Oriented Programming ,,Basics,https://www.w3schools.com/java/java_oop.asp,phase1,,1
+Classes and Objects in Python (Tutorial),,Basics,https://www.youtube.com/watch?v=ZDa-Z5JzLYM&ab_channel=CoreySchafer,phase1,,1
+OOP Concepts (Video Tutorial),,Basics,https://www.youtube.com/watch?v=WmNt2GF095k&t=9s&ab_channel=OpenCanvas,phase1,,1
+File Operations - Explained,,Basics,https://ecomputernotes.com/fundamental/disk-operating-system/what-is-files-types-of-files-types-of-file-operations,phase1,This article explains what file operations are all about,1
+File Operation example in Python,,Basics,https://www.youtube.com/watch?v=DmHSwTiD5Tk&ab_channel=Simplilearn,phase1,This video explains and will do a walk through example of how to do File Operations in Python,1
+What is Front End Security,,Full Stack,https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534,phase1,,1
+Cross Site Scripting Attacks (XSS),,Full Stack,https://www.youtube.com/watch?v=EoaDgUgS6QA&ab_channel=PwnFunction,phase1,,1
+Content Security Policy,,Full Stack,https://www.youtube.com/watch?v=TO7pmkMh1Tg&ab_channel=webpwnized,phase1,,1
+What are cookies?,,Full Stack,https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia,phase1,,1
+Data Sanitisation,,Full Stack,https://heynode.com/tutorial/how-validate-and-sanitize-expressjs-form/,phase1,,1
+How to store passwords properly,,Full Stack,https://www.vaadata.com/blog/how-to-securely-store-passwords-in-database/,phase1,,1
+OWASP Top Ten,,Full Stack,https://owasp.org/www-project-top-ten/,phase1,These are the biggest security risks in the cyber world. It's important to be aware of them,1
+What does Full Stack really mean?,,Full Stack,https://www.w3schools.com/whatis/whatis_fullstack.asp,phase1,,1
+What does Front end and Back end mean,,Full Stack,https://www.youtube.com/watch?v=lAT9kahUMH4&ab_channel=OneMonth,phase1,,1
+What does Front End all about,,Full Stack,https://www.youtube.com/watch?v=LfbPSJiqTPQ&ab_channel=Scrimba,phase1,,1
+What is React?,,Full Stack,https://www.youtube.com/watch?v=N3AkSS5hXMA&ab_channel=ProgrammingwithMosh,phase1,This video explains what React is and it's significance in the industry,1
+React Tutorial,,Full Stack,https://reactjs.org/tutorial/tutorial.html,phase1,This is the official React tutorial straight from the developers. Highly recommend looking into this.,2
+What is NodeJS?,,Full Stack,https://www.youtube.com/watch?v=yEHCfRWz-EI&ab_channel=Telusko,phase1,,1
+A NodeJS tutorial,,Full Stack,https://www.w3schools.com/nodejs/,phase1,,2
+Advanced Topics with NodeJS,,Full Stack,https://www.tutorialsteacher.com/nodejs,phase1,,2
+What is Unit Testing?,,Full Stack,https://www.youtube.com/watch?v=iWtxEDE1IR4&ab_channel=LetsBuildThatApp,phase1,,2
+What is Test Driven Development?,,Full Stack,https://www.youtube.com/watch?v=H4Hf3pji7Fw&ab_channel=DevelopmentThatPays,phase1,,1
+What is Functional Testing,,Full Stack,https://www.youtube.com/watch?v=10GMNDOjpYU&ab_channel=SoftwareTestingMentor,phase1,,1
+What is Integration Testing,,Full Stack,https://www.youtube.com/watch?v=cMtMXWXVICA&ab_channel=WhiteboardTesting,phase1,,1
+Jest - Unit Testing with NodeJS,,Full Stack,https://jestjs.io/,phase1,,3
+Cypress - Frontend UI Testing ,,Full Stack,https://www.cypress.io/,phase1,,3
+What are APIs,,Full Stack,https://www.youtube.com/watch?v=OVvTv9Hy91Q&ab_channel=SimplyExplained,phase1,,1
+How to use APIs with NodeJS - A tutorial,,Full Stack,https://www.section.io/engineering-education/create-a-weather-app-in-nodejs-using-openweathermap-api/,phase1,,2
+What is CSS,,Full Stack,https://www.youtube.com/watch?v=YD6W4FTq-Iw&ab_channel=HostingerAcademy,phase1,This is a great explanation for CSS and comes with tutorial so you can try it too!,1
+What are the best CSS Frameworks for React?,,Full Stack,https://themeisle.com/blog/best-react-ui-framework/,phase1,,1
+Material UI tutorial,,Full Stack,https://react.school/material-ui,phase1,,3
+What is Next.JS,,Full Stack,https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs,phase1,,1
+What is UX,,Full Stack,https://www.youtube.com/watch?v=ziQEqGZB8GE&ab_channel=CareerFoundry,phase1,,1
+What is Responsive Design ,,Full Stack,https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/,phase1,,2
+Build a Responsive App - Tutorial,,Full Stack,https://www.youtube.com/watch?v=ShVYMjlxfv4&ab_channel=CodeLit,phase1,,2
+What is Redux,,Full Stack,https://redux.js.org/introduction/getting-started,phase1,,2
+Redux Tutorial,,Full Stack,https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867,phase1,,2
+What is AWS,,Full Stack,https://aws.amazon.com/what-is-aws/,phase1,,1
+Why get an AWS certification?,,Full Stack,https://acloudguru.com/blog/engineering/the-value-of-an-aws-certification,phase1,,1
+Hello World on AWS,,Full Stack,https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/,phase1,,3
+What is Authentication,,Full Stack,https://www.youtube.com/watch?v=rhi1eIjSbvk&ab_channel=OktaDev,phase1,,1
+Tutorial - Build a login / Auth App,,Full Stack,https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-1-c405048e3669,phase1,,2
+What are CRUD apps,,Full Stack,https://www.dronahq.com/crud-app/,phase1,,2
+CRUD App Examples,,Full Stack,https://react.rocks/tag/CRUD,phase1,,2
+What are non-relational databases,,Full Stack,https://www.youtube.com/watch?v=0buKQHokLK8&ab_channel=SimplyExplained,phase1,,1
+Non-relational database tutorial with MongoDB,,Full Stack,https://www.tutorialspoint.com/mongodb/index.htm,phase1,,2
+Introduction to relational databases,,Full Stack,https://www.youtube.com/watch?v=OqjJjpjDRLc,phase1,,1
+Introduction to SQLite - A tutorial,,Full Stack,https://www.sqlitetutorial.net/sqlite-python/) (you will need to install PySQLite,phase1,,1
+Building a CRUD app with PostgreSQL and React,,Full Stack,https://www.bezkoder.com/react-node-express-postgresql/,phase1,,2
+Introduction to Data Structure and Algorithms (and what is LeetCode),,Data Structures and Algorithms,https://www.youtube.com/watch?v=4RLhuZ3N9nc&ab_channel=CalebCurry,phase1,,
+The best book for learning data structures and algorithms,,Data Structures and Algorithms,https://www.crackingthecodinginterview.com/,phase1,,
+A great resource for learning data structures and algorithms ,,Data Structures and Algorithms,https://designgurus.org/course/grokking-the-coding-interview,phase1,,
+List of DS&A Questions and Answers commonly used in interviews,,Data Structures and Algorithms,https://github.com/kamyu104/LeetCode-Solutions,phase1,,
+Why do data structures and algorithms (even if you are not interviewing),,Data Structures and Algorithms,"https://www.programiz.com/dsa/why-algorithms#:~:text=Data%20structures%20and%20algorithms%20(DSA,the%20best%20of%20various%20choices.",phase1,,
+"Why companies do ""LeetCode""",,Data Structures and Algorithms,"https://workplace.stackexchange.com/questions/170875/dont-quite-understand-why-companies-ask-leetcode-problems-in-software-interview#:~:text=Many%20companies%20offload%20that%20on,that's%20why%20companies%20use%20them.",phase1,,
+How to study Data Structures and Algorithms,,Data Structures and Algorithms,https://www.geeksforgeeks.org/how-to-start-learning-dsa/,phase1,,
+"Companies which don't use ""LeetCode"" interviews",,Data Structures and Algorithms,https://github.com/poteto/hiring-without-whiteboards,phase1,,
+Introduction to Arrays as a Data Structure,,Data Structures and Algorithms,https://www.youtube.com/watch?v=NptnmWvkbTw&ab_channel=TheCodingTrain,phase1,,
+Introduction to Arrays in Python,,Data Structures and Algorithms,https://www.w3schools.com/python/python_arrays.asp,phase1,,1
+The Mechanisms of Arrays,,Data Structures and Algorithms,https://www.youtube.com/watch?v=tI_tIZFyKBw&ab_channel=CS50,phase1,,
+Easy Array Questions,,Data Structures and Algorithms,https://leetcode.com/problems/contains-duplicate/,phase1,,1
+Medium Array Questions,,Data Structures and Algorithms,https://leetcode.com/problems/valid-sudoku/,phase1,,2
+Hard Array Questions,,Data Structures and Algorithms,https://leetcode.com/problems/detect-cycles-in-2d-grid/,phase1,,
+Introduction to Linked Lists,,Data Structures and Algorithms,https://www.youtube.com/watch?v=njTh_OwMljA&t=2s&ab_channel=HackerRank,phase1,,1
+Introduction to Linked lists in Python,,Data Structures and Algorithms,https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm,phase1,,
+Implementing Linked Lists in Java,,Data Structures and Algorithms,https://www.geeksforgeeks.org/implementing-a-linked-list-in-java-using-class/,phase1,,
+The Mechanisms of Linked Lists,,Data Structures and Algorithms,https://www.youtube.com/watch?v=VOpjAHCee7c&ab_channel=JacobSorber,phase1,,
+Easy Linked List Questions,,Data Structures and Algorithms,https://leetcode.com/problems/reverse-linked-list/,phase1,,1
+Medium Linked List Questions,,Data Structures and Algorithms,https://leetcode.com/problems/add-two-numbers/,phase1,,2
+Hard Linked List Questions,,Data Structures and Algorithms,https://leetcode.com/problems/merge-k-sorted-lists/,phase1,,2
+Introduction to Stacks And Queues,,Data Structures and Algorithms,https://www.youtube.com/watch?v=wjI1WNcIntg&ab_channel=HackerRank,phase1,,1
+Stacks and Queues in Python,,Data Structures and Algorithms,https://www.geeksforgeeks.org/stack-and-queues-in-python/,phase1,,
+The Mechanisms of Stacks and Queues,,Data Structures and Algorithms,https://betterprogramming.pub/stacks-and-queues-7c322b5f4e35,phase1,,
+Easy Stacks and Queues Question,,Data Structures and Algorithms,https://leetcode.com/problems/valid-parentheses/,phase1,,1
+Medium Stacks and Queues Question,,Data Structures and Algorithms,https://leetcode.com/problems/car-fleet/,phase1,,2
+Hard Stacks and Queues Question,,Data Structures and Algorithms,https://leetcode.com/problems/largest-rectangle-in-histogram/,phase1,,2
+Introduction to Trees and Graphs,,Data Structures and Algorithms,https://www.youtube.com/watch?v=oSWTXtMglKE&ab_channel=HackerRank,phase1,,1
+Trees VS Graphs,,Data Structures and Algorithms,https://www.geeksforgeeks.org/difference-between-graph-and-tree/,phase1,,
+Trees and Graphs in Python (Tutorial),,Data Structures and Algorithms,https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm,phase1,,
+Understanding Trees and Graphs,,Data Structures and Algorithms,https://www.youtube.com/watch?v=1XC3p2zBK34&ab_channel=WilliamFiset,phase1,,
+Easy Trees and Graphs Question,,Data Structures and Algorithms,https://leetcode.com/problems/binary-tree-inorder-traversal/,phase1,,1
+Medium Trees and Graphs Question,,Data Structures and Algorithms,https://leetcode.com/problems/rotting-oranges/,phase1,,2
+Hard Trees and Graphs Question,,Data Structures and Algorithms,https://leetcode.com/problems/word-ladder/,phase1,,2
+Introduction to Bit Manipulation ,,Data Structures and Algorithms,https://www.youtube.com/watch?v=NLKQEOgBAnw&ab_channel=HackerRank,phase1,,1
+Bit Manipulation Techniques,,Data Structures and Algorithms,https://isaaccomputerscience.org/concepts/data_numbases_bitwise_manipulation?examBoard=all&stage=all,phase1,,
+Bit Manipulation Tutorial,,Data Structures and Algorithms,https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/,phase1,,
+Easy Bit Manipulation Question,,Data Structures and Algorithms,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/,phase1,,1
+Medium Bit Manipulation Question,,Data Structures and Algorithms,https://leetcode.com/problems/reverse-integer/,phase1,,2
+Hard Bit Manipulation Question,,Data Structures and Algorithms,https://leetcode.com/problems/maximum-xor-with-an-element-from-array/,phase1,,
+Introduction to Recursion and Dynamic Programming,,Data Structures and Algorithms,https://www.youtube.com/watch?v=Mv9NEXX1VHc&ab_channel=Computerphile,phase1,,1
+Understanding the difference between Recursion and DP,,Data Structures and Algorithms,"https://whatsabyte.com/dynamic-programming-vs-recursion-difference/#:~:text=Programming%20and%20Recursion%3F-,Recursion%20is%20when%20a%20function%20can%20be%20called%20and%20executed,to%20resolve%20the%20complex%20one.",phase1,,
+Recursion and Dynamic Programming Easy Question,,Data Structures and Algorithms,https://leetcode.com/problems/climbing-stairs/,phase1,,1
+Recursion and Dynamic Programming Medium Question,,Data Structures and Algorithms,https://leetcode.com/problems/house-robber/,phase1,,2
+Recursion and Dynamic Programming Hard Question,,Data Structures and Algorithms,https://leetcode.com/problems/edit-distance/,phase1,,2
+Introduction to Threads and Locks ,,Data Structures and Algorithms,https://www.youtube.com/watch?v=LOfGJcVnvAk&ab_channel=NesoAcadem,phase1,,1
+Threads and Locks Tutorial using Java,,Data Structures and Algorithms,https://www.tutorialspoint.com/java/java_multithreading.htm,phase1,,
+Threads and Locks Questions,,Data Structures and Algorithms,https://leetcode.com/problemset/concurrency/,phase1,,
+Introduction to Big O,,Data Structures and Algorithms,https://www.youtube.com/watch?v=D6xkbGLQesk&ab_channel=CSDojo,phase1,,
+A lecture on Big-O,,Data Structures and Algorithms,https://www.youtube.com/watch?v=o9nW0uBqvEo&ab_channel=MITOpenCourseWare,phase1,,1
+Big-O Questions,,Data Structures and Algorithms,https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/big-o-practice,phase1,,2
+Sorting and Searching - An Introduction,,Data Structures and Algorithms,https://www.programiz.com/dsa/sorting-algorithm,phase1,,
+Sorting and Searching Deep Dive,,Data Structures and Algorithms,https://www.youtube.com/watch?v=6LOwPhPDwVc&ab_channel=MITOpenCourseWare,phase1,,1
+Sorting and Searching Easy Question,,Data Structures and Algorithms,https://leetcode.com/problems/sort-colors/,phase1,,1
+Sorting and Searching Medium Question,,Data Structures and Algorithms,https://leetcode.com/problems/insertion-sort-list/,phase1,,2
+Sorting and Searching Hard Question,,Data Structures and Algorithms,https://leetcode.com/problems/median-of-two-sorted-arrays/,phase1,,2
+Systems and Design - Great Video Series,,Data Structures and Algorithms,https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen,phase1,,
+Important System Design Concepts,,Data Structures and Algorithms,https://www.freecodecamp.org/news/systems-design-for-interviews/,phase1,,
+What is Data Science ,,Data Science,https://www.youtube.com/watch?v=uswU1s3M2VE&ab_channel=365DataScience,phase1,,1
+How Kaggle helps people into Data Science,,Data Science,https://www.kaggle.com/getting-started/44915,phase1,,1
+How to learn Data Science ,,Data Science,https://www.dataquest.io/blog/learn-data-science/,phase1,,1
+Free Textbook for Mathematical Foundations of the book,,Data Science,https://mml-book.github.io,phase1,This is a free textbook with exercises and work to be done,1
+Mathematical Lectures for ML (Youtube),,Data Science,https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA,phase1,This is a set of lectures to work on ,1
+Mathematical Lectures (Carnegie Mellon),,Data Science,https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA,phase1,This is a set of lectures to work on ,1
+Linear Algebra Crash Course,,Data Science,https://www.youtube.com/playlist?list=PLC7GP7QTnIJ8w2qcrHK1nIy7mWQnYSOmr,phase1,This is a crash course on Linear Algebra. Suited if you don't have a lot of time,1
+What is a Dataset,,Data Science,https://en.wikipedia.org/wiki/Data_set,phase1,,1
+How to work with Datasets,,Data Science,https://www.youtube.com/watch?v=exqjWW3_BTY&ab_channel=DivyaThakur,phase1,,1
+The difference between supervised learning and unsupervised learning,,Data Science,https://www.analyticssteps.com/blogs/introduction-machine-learning-supervised-and-unsupervised-learning,phase1,,1
+What is Supervised Learning,,Data Science,https://www.javatpoint.com/supervised-machine-learning,phase1,,1
+Supervised Learning - A safe toy dataset,,Data Science,https://www.kaggle.com/c/data-challenge-supervised-ml,phase1,,2
+What is Unsupervised Learning,,Data Science,https://en.wikipedia.org/wiki/Unsupervised_learning,phase1,,1
+Unsupervised Learning - A safe toy dataset,,Data Science,https://archive.ics.uci.edu/ml/datasets/iris,phase1,,2
+What are Neural Networks,,Data Science,https://en.wikipedia.org/wiki/Neural_network,phase1,,1
+Why do we use Neural Networks,,Data Science,https://towardsdatascience.com/introduction-to-neural-networks-advantages-and-applications-96851bd1a207,phase1,,1
+Neural Networks - Explained,,Data Science,https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown,phase1,,1
+Writing a Neural Network from scatch,,Data Science,https://www.youtube.com/watch?v=w8yWXqWQYmU&ab_channel=SamsonZhang,phase1,,3
+What are SVMs,,Data Science,https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47,phase1,,1
+What are Decision Trees,,Data Science,https://en.wikipedia.org/wiki/Decision_tree,phase1,,1
+What are CNNs,,Data Science,https://www.youtube.com/watch?v=vT1JzLTH4G4&ab_channel=StanfordUniversitySchoolofEngineering,phase1,,1
+What are RNNs,,Data Science,https://www.youtube.com/watch?v=6niqTuYFZLQ&ab_channel=StanfordUniversitySchoolofEngineering,phase1,,1
+What are Batches,,Data Science,https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/,phase1,,1
+How to work with small datasets,,Data Science,https://hackernoon.com/7-effective-ways-to-deal-with-a-small-dataset-2gyl407s,phase1,,1
+The cutting edge of machine learning,,Data Science,https://paperswithcode.com/,phase1,,1
+How to deploy a ML model,,Data Science,https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/,phase1,,1
+Kaggle VS Real Life Data Science,,Data Science,https://towardsdatascience.com/kaggle-vs-the-real-world-974af9bdc58d,phase1,,1
+Writing models using Java and Tensorflow - Tutorial,,Data Science,https://www.youtube.com/watch?v=j3MZ0brQ0QE&ab_channel=DanielPersson,phase1,,3
+What are recommender systems,,Data Science,https://www.analyticssteps.com/blogs/what-are-recommendation-systems-machine-learning,phase1,,2
+What is Linear Regression,,Data Science,https://www.youtube.com/watch?v=nk2CQITm_eo&ab_channel=StatQuestwithJoshStarmer,phase1,,1
+What is multivariate regression,,Data Science,https://www.youtube.com/watch?v=zITIFTsivN8&ab_channel=StatQuestwithJoshStarmer,phase1,,1
+How to do linear regression using a Python Tutorial,,Data Science,https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/,phase1,,2
+What is the Web - A video series,Web Fundamentals,Web Fundamentals,https://www.youtube.com/watch?v=O_GWbkXIqEY&ab_channel=MozillaHacks,phase1,,3
+HTTP/S and protocols,Web Fundamentals,Web Fundamentals,https://www.youtube.com/watch?v=hExRDVZHhig&ab_channel=PowerCertAnimatedVideos,phase1,,1
+Create an HTML page (a file ending with .html) to be your first web page called index.html,HTML,Web Fundamentals,https://www.youtube.com/watch?v=u0OeZfIfBRI&ab_channel=WinningWP-WinningWordPress,phase1,,1
+"Add the words ""Hello user!"" to it, and draw a box",HTML,Web Fundamentals,https://www.youtube.com/watch?v=u0OeZfIfBRI&ab_channel=WinningWP-WinningWordPress,phase1,,1
+Create an HTML page and connect a CSS stylesheet to it,CSS,Web Fundamentals,https://www.youtube.com/watch?v=YD6W4FTq-Iw&t=134s&ab_channel=HostingerAcademy,phase1,,1
+Create two boxes for User name and Password,CSS,Web Fundamentals,https://www.w3schools.com/css/,phase2,,2
+Create a button for Logging In,CSS,Web Fundamentals,https://www.w3schools.com/css/,Step 3,,
+Use a CSS variable to create a warning message: if one or both of the text boxes contains spaces and the background colour of the empty text box will change to light yellow.,CSS,Web Fundamentals,https://css-tricks.com/making-custom-properties-css-variables-dynamic/,phase4,,
+Set up your web page and set up Bootstrap,Using CSS Frameworks,Web Fundamentals,,phase1,,
+Create a container for your elements using HTML,Using CSS Frameworks,Web Fundamentals,,phase1,,
+Cr,,,,,,
+"Create three boxes for User name, Password and Email Address",Using CSS Frameworks,Web Fundamentals,,phase1,,
+Use your CSS framework to apply a style to the options,Using CSS Frameworks,Web Fundamentals,,phase1,,
+Add text indicating the user has successful signed up when they hit Sign Up,Using CSS Frameworks,Web Fundamentals,,phase1,,
+,,,,,,
+"Create a new HTML page, and create one text input and one button",JavaScript,Web Fundamentals,https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript,phase1,,1
+Create a function using JavaScript which takes the input (Dollars) and converts it into Cents. Assign it to the Button,JavaScript,Web Fundamentals,https://www.w3schools.com/js/,phase1,,2
+Take the output of the function and print it somewhere on the user's screen,JavaScript,Web Fundamentals,https://javascript.info/,phase1,,2
+"Create a new webpage which has the words ""Test page"" ",JavaScript,Web Fundamentals,https://www.youtube.com/watch?v=htbY9-yggB0&ab_channel=Pickaweb.co.uk,phase1,,1
+Set up a web hosting service,Building and hosting a static website,Web Fundamentals,https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github,phase1,,2
+Put your website on the web hosting service,Building and hosting a static website,Web Fundamentals,https://www.wikihow.com/Set-up-a-Personal-Web-Server-with-XAMPP,phase1,,2
+"Add your website to the demos section. Congratulations, you now are on the Internet",Building and hosting a static website,Web Fundamentals,http://www.csun.edu/~lg48405/vsf/ch1/ch1_und.html,phase1,,1
+What is DevOps,,DevOps,https://aws.amazon.com/devops/what-is-devops/,phase1,,1
+What do DevOps engineers do?,,DevOps,https://www.youtube.com/watch?v=AoH-7-snREo&ab_channel=Intellipaat,phase1,,1
+When is DevOps appropriate for an organisation? ,,DevOps,"https://www.appdynamics.com/topics/why-devops-is-important#:~:text=DevOps%20is%20important%20because%20it's,easier%20maintenance%20of%20existing%20deployments.",phase1,,1
+The impact of DevOps and it's future,,DevOps,https://thechief.io/c/editorial/does-devops-have-a-future/,phase1,,1
+Why you should go into DevOps,,DevOps,"https://www.robertwalters.co.uk/career-advice/latest-technology-advice/six-benefits-of-pursuing-a-devops-career.html#:~:text=One%20of%20the%20main%20drivers,security%2C%20quality%20assurance%20and%20operations.",phase1,,1
+Resources to try out DevOps,,DevOps,https://github.com/Tikam02/DevOps-Guide,phase1,,1
+DevOps Open Source Bootcamp,,DevOps,https://devopsbootcamp.osuosl.org/shell-navigation-os.html,phase1,,
+Operating Systems and DevOps Introduction,,DevOps,https://devopsbootcamp.osuosl.org/operating-systems.html,phase1,,1
+What are operating systems,,DevOps,https://www.youtube.com/watch?v=Dj2hN_pFA8w&ab_channel=SilvinaHanonoWachman,phase1,,1
+Why knowledge of OS are useful in DevOps,,DevOps,https://www.infoq.com/presentations/devops-operating-systems/,phase1,,1
+Linux and DevOps,,DevOps,http://cs312.osuosl.org/,phase1,,1
+How Linux Operating System works,,DevOps,https://www.youtube.com/watch?v=V1y-mbWM3B8&ab_channel=Guru99,phase1,,1
+DevOps techniques using Linux - Tutorial,,DevOps,https://www.tutorialworks.com/linux-for-devops/,phase1,,1
+DevOps using Azure Tutorial,,DevOps,https://azure.microsoft.com/en-gb/solutions/devops/tutorial/#understanding,phase1,,1
+DevOps on the Cloud (AWS) Tutorial,,DevOps,https://aws.amazon.com/getting-started/learning-path-devops-engineer/,phase1,,1
+DevOps comparisons across OS ,,DevOps,https://devops.com/which-desktop-os-is-best-for-devops/,phase1,,1
+CLI Introduction,,DevOps,https://www.w3schools.com/whatis/whatis_cli.asp,phase1,,1
+Why CLI is useful for DevOps,,DevOps,https://devopscube.com/linux-shell-scripting-for-devops/,phase1,,1
+Bash Tutorial,,DevOps,https://linuxconfig.org/bash-scripting-tutorial-for-beginners,phase1,,1
+Bash Tutorial (Video),,DevOps,https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins,phase1,,
+Bash and DevOps Tutorial,,DevOps,https://devopsbootcamp.osuosl.org/shell-navigation-os.html,phase1,,1
+PowerShell (Windows) Tutorial,,DevOps,https://www.tutorialspoint.com/powershell/index.htm,phase1,,1
+PowerShell and Devops Tutorial,,DevOps,https://www.youtube.com/watch?v=yavDKHV-OOI&ab_channel=JohnSavill%27sTechnicalTraining,phase1,,1
+What are containers,,DevOps,"https://www.cio.com/article/247005/what-are-containers-and-why-do-you-need-them.html#:~:text=Put%20simply%2C%20a%20container%20consists,it%2C%20bundled%20into%20one%20package.",phase1,,1
+What is Docker,,DevOps,https://docs.docker.com/get-started/overview/,phase1,,1
+Docker Tutorial,,DevOps,https://docs.docker.com/get-started/,phase1,,1
+What is Kubernetes,,DevOps,https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/,phase1,,1
+Kubernetes Tutorial,,DevOps,https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/,phase1,,1
+Why is Docker and Kubernetes in demand,,DevOps,"https://medium.com/javarevisited/why-and-how-to-learn-docker-and-kubernetes-1dcbe8679792#:~:text=The%20main%20reason%20is%20the,like%20Concurrency%20and%20cloud%20computing.",phase1,,1
+Containers and AWS - Tutorial,,DevOps,https://docker-curriculum.com/,phase1,,1
+Introduction to Infrastructure as Code,,DevOps,https://en.wikipedia.org/wiki/Infrastructure_as_code,phase1,,1
+What is Infrastructure as Code (IaC),,DevOps,https://stackify.com/what-is-infrastructure-as-code-how-it-works-best-practices-tutorials/,phase1,,1
+Why is IaC in demand,,DevOps,"https://www.cloudbolt.io/blog/3-advantages-and-challenges-of-infrastructure-as-code-iac/#:~:text=Faster%20speed%20and%20consistency%3A%20The,get%20to%20the%20next%20one.",phase1,,1
+What is Terraform,,DevOps,https://www.terraform.io/,phase1,,1
+Terraform Tutorial,,DevOps,https://www.youtube.com/watch?v=SLB_c_ayRMo&ab_channel=freeCodeCamp.org,phase1,,1
+Terraform - Advanced Topics,,DevOps,https://www.zero2devops.com/blog/ultimate-guide-to-terraform,phase1,,1
+Introduction to web servers,,DevOps,Nothing at the moment,phase1,,1
+Nginx tutorial,,DevOps,Nothing at the moment,phase1,,1
+XAMPP,,DevOps,Nothing at the moment,phase1,,1
+CI/CD Introduction,,DevOps,Nothing at the moment,phase1,,1
+What is CI/CD ,,DevOps,Nothing at the moment,phase1,,1
+Why is CI/CD in demand,,DevOps,Nothing at the moment,phase1,,1
+Understanding use cases for CI/CD,,DevOps,Nothing at the moment,phase1,,1
+CI/CD Tutorial with Circle CI,,DevOps,Nothing at the moment,phase1,,1
+Automation with Jenkins - Tutorial,,DevOps,Nothing at the moment,phase1,,1
+"What does it mean to ""ship""",,DevOps,Nothing at the moment,phase1,,1
+What are popular deployment strategies,,DevOps,Nothing at the moment,phase1,,1
+What is Blue Green Deployment,,DevOps,Nothing at the moment,phase1,,1
+Blue-Green deployment tutorial,,DevOps,Nothing at the moment,phase1,,1
+Canary Deployment tutorial,,DevOps,Nothing at the moment,phase1,,1
+Monitoring Introduction ,,DevOps,Nothing at the moment,phase1,,1
+DevOps Monitoring techniques,,DevOps,Nothing at the moment,phase1,,1
+Getting started with Grafana,,DevOps,Nothing at the moment,phase1,,1
+Grafana Tutorial,,DevOps,Nothing at the moment,phase1,,1
+Getting started with Elasticsearch,,DevOps,Nothing at the moment,phase1,,1
+What is the role of DevOps in security,,DevOps,Nothing at the moment,phase1,,1
+What are web protocols,,DevOps,Nothing at the moment,phase1,,1
+Email Protocols - STMP/ IMAPS / POP3,,DevOps,Nothing at the moment,phase1,,1
+HTTP / HTTPS,,DevOps,Nothing at the moment,phase1,,1
+SSL / TLS ,,DevOps,Nothing at the moment,phase1,,1
+Port Forwarding,,DevOps,Nothing at the moment,phase1,,1
+FTP / SFTP,,DevOps,Nothing at the moment,phase1,,1
+Working with proxies,,DevOps,Nothing at the moment,phase1,,1
+What is the role of DevOps when working with scaling,,DevOps,Nothing at the moment,phase1,,1
+Caching,,DevOps,Nothing at the moment,phase1,,1
+AWS scaling techniques,,DevOps,Nothing at the moment,phase1,,1
+Load balancing,,DevOps,Nothing at the moment,phase1,,1
+Autoscaling,,DevOps,Nothing at the moment,phase1,,1

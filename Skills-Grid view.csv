@@ -1,0 +1,1483 @@
+﻿title,name,difficulty,navigationTitle,approxtime,role,class,colors,description,learning,skills,ideas,Unfair
+Getting Set Up With Git,0jsaldI4DdgfSA,1,Creating a Public Github Profile,1 day,Basics,Practice,#98FF73,"You will need a Github account to be able to use the roadmap to its fullest.
+
+You will not only need an account but also create a public profile and repository to share your code on","Set up a Github account,Create a public Github Repository,Grab the link of your new repository and finish this project","Beginner,Git,Github","# Getting Set Up To Share Code
+
+The goal of this project is to set up a Github repository
+
+### Notes
+
+* It's not necessary to use Github - you can use Gitlab, Bitbucket or host your own Git server but it's the easiest way to get set up here.
+
+* If you can deploy your code and create a live demo, that's even better! But at minimum, always share your public code 
+
+
+
+## Requirements
+
+1. Learn how to set up a [Github profile and how to create a public Git repository](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+
+
+2. [Learn some basic Git commands](https://www.w3schools.com/git/) like how to push code to your public repository. This will make doing the rest of this entire roadmap much easier
+
+
+
+3. Learn about [Git](https://www.youtube.com/watch?v=USjZcfj8yxE)
+
+
+
+4. Create a public repository and share that link in the ""Track Your Progress"" section
+
+  
+
+ ## Useful links and resources
+
+
+
+Nothing to share! 
+
+  
+
+## Example projects
+
+  
+
+* An example of a public repo with some code is this here: https://github.com/RamBagga/LinearRegressionModel",
+Your first program: Hello World!,IMGD1ECDLTYrc5,1,Print Hello World,1 day,Basics,Practice,#98FF73,"Hello World! is usually is the first code people write. It serves another purpose - if you can run it, it means you installed your programming language of choice correctly, which just so happens to be the purpose of this project","Create an empty source file and save it,Write code to print out Hello World. Run it and see the output!",Beginner,"# Hello World
+  
+[Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program#Python) usually is the first code people write. It serves another purpose - if you can run it, it means you installed your programming language of choice correctly
+  
+Prove you have installed your programming language by creating the legendary ""Hello World"" program.
+  
+### Constraints
+* We recommend starting off with Python as it's easy to set up. Feel free to do this project with any programming language
+
+## Requirements
+1. Set up your chosen programming language on your machine by installing it. For Python, you can find the instructions on the [official Python website](https://www.python.org/downloads/
+1. All you have to do really is install the language and create a program that prints out ""Hello World"". For example, in Python, it's ` print ('Hello World) `
+2. Take your code, post it on Github and congratulation! You are officially putting code out there. The start of your journey has arrived
+  
+## Useful links and resources
+
+Nothing to share!
+ 
+Community Champion 
+
+
+Puddn user [Panprach](https://github.com/panprach) has created this project using [Python!](https://github.com/panprach/puddn/blob/main/basics/hello.py)
+
+## Example projects
+  
+* If you really need some help, [here is a website](https://www.programiz.com/python-programming/examples/hello-world) explaining it",
+Variables,FQGIECfp8skxua,1,Printing out your name,1 day,Basics,Practice,#98FF73,"In computer programming, a variable is an abstract storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value; or in simpler terms, a variable is a container for a particular set of bits or type of data","Store the user's input into a variable ,""Output the variable in the form of (""""Hello """" + variable)""","Beginner,Variables","# Hello user!
+  
+Variables are used to store data 
+  
+Write a program which will ask the user for their name, and then print out the string: ""Hello"" followed by the user's name
+  
+### Notes
+  
+* Many apps use user input to process and feed back the user output. This is called Input / Output (IO for short)
+
+## Requirements
+  
+* The program must be able to take the user's name 
+* The program must print out the string ""Hello [Users Name]""
+  
+## Useful links and resources
+
+* How to read user input - [tutorial](https://www.w3schools.com/python/ref_func_input.asp)
+  
+## Example projects
+  
+Nothing to share here
+",
+Programming Loops,PgDlR80t1rTw9O,1,Guess the Number,1 day,Basics,Practice,#98FF73,"Loops are a great way to keep the user in one state of the program until a condition is met.
+
+This project is all about learning to use loops to build a guessing game","Let the user guess a number between 1 and 10,Initialise a variable for the number of guesses a user can make. Call this variable 'guesses',Check if the user guesses right. They should have as many chances as you set in Step 2","Beginner,Loops","Guess the number!
+  
+Loops are a great way to keep the user in one state of the program until a condition is met. Loops are used in tons of applications such as video game engines and simulations.
+  
+Write a guessing game where the user has to guess a number between 1 and 10, and they only have 5 guesses. Do this with all the different types of loops.
+
+## Requirements
+* The user has to guess a number between 1 and 10 only. If they guess higher, let them reguess without subtracting the score
+* The user should have only 5 guesses. 
+* Once the user has guessed the right number, print ""Congratulations! you got it!"" and end the game
+* If the user gets it wrong, subtract the total number of guesses by 1
+* Once the user uses up all their guesses, print ""Too bad! You used all your guesses up"" and end the game",
+File Operations,IkkIcRZDPGI8lw,1,Reading Shakespeare,1 week,Basics,Practice,#98FF73,"Often, programmers will need to read data stored in a text file format (or any other format) and so, learning to read files is an important skill
+This project aims to teach you about working with files.","File Operations - Explained,File Operation example in Python","Beginner,Reading and Writing Operations,Programming Basics","Reading Shakespeare
+  
+Often, programmers will need to read data stored in a text file format (or any other format) and so, learning to read files is an important skill
+
+Your goal is to read this Shakespeare file and the output it back
+
+### Notes
+  
+Nothing to share 
+
+## Requirements
+  
+* Your program should read the file and then, print each line out, line by line
+  
+## Useful links and resources
+
+Read the Shakespeare text (you can find it [here](https://github.com/maxg203/Python-for-Beginners/blob/master/shakespeare.txt))
+  
+## Example projects
+  
+Nothing to share",
+Conditionals,ovjYXGeDAPUMt4,1,"Rock, Paper, Scissors",1 week,Basics,Practice,#98FF73,"Selection is a programming construct where a section of code is run only if a condition is met. In programming, there are occasions when a decision needs to be made. Selection is the process of making a decision. The result of the decision determines which path the program will take next.","""Create an array of 3 words: Rock, Papers and Scissors "",Create a function to return a random word from the Array from Step 1,Store and validate the user's input into a variable,Compare the user's input with the function from Step 2. Let the user know if they won or not","Beginner,Selection","# Rock, Paper, Scissors
+  
+Rock Paper Scissors is a 2 player game where you and your opponent must select between 3 options: rock, paper and scissors.
+You then compare the options selected and follow these rules:
+
+Rock beats Scissors.
+Scissors beat Paper.
+Paper beats Rock
+
+If both your selections are the same, the game is a draw. 
+
+### Notes
+  
+* The rules of the game can be found here if you need more clarity 
+
+## Requirements
+  
+* You will also design an opponent: your code must be able to pick between the 3 options randomly
+* You must use selection statements to compare the values selected by the players and check 
+* You must tell the user whether they won, lost or drew
+  
+## Example projects
+  
+* Here is a demo using [Python](https://realpython.com/python-rock-paper-scissors/)",
+"Dependencies, Packages and Libraries",DPGI8lwoq1t6J61,1,Youtuber Downlaoder,1 week,Basics,Practice,#98FF73,"Often, programmers will use other people's code in the form of dependencies and libraries. 
+
+Learning to import them can save you a ton of time!","Download a 3rd Party library to download Youtube videos ,Let the user input a Youtube url into a function provided by the library,""Take the output of the Youtube video, and download it somewhere on your computer""","Beginner,Libraries","# Downloading Youtube videos for Movie Night
+  
+Youtube is a popular website where people can share videos pertaining to different topics. 
+
+For this project, you are going to develop a Youtube Video Downloader. This project is going to require you to use a 3rd party library to fetch and download the video for you.
+    
+### Notes
+  
+* You must use a 3rd party library in your project. For example, you can use [PyTube](https://pytube.io/en/latest/) if you use Python or [rafy-rs](https://github.com/ritiek/rafy-rs) if you use Rust
+
+## Requirements
+  
+* The user must be able to enter a url to a Youtube video
+* Your program must be able to download the video, and then output it into a directory so you can watch it later
+  
+## Useful links and resources
+
+If you are really lost, check out this [tutorial in Python](https://www.geeksforgeeks.org/pytube-python-library-download-youtube-videos/)
+  
+## Community Champion
+
+Puddn user [Kraeon](https://github.com/Kraeon20) has created this project using [Python!](https://github.com/Kraeon20/my-youtube-downloader)",
+Classes and Methods,Wa5ypGP6KcFSXx,1,Roman Numerals,1 week,Basics,Practice,#98FF73,"In object-oriented programming languages such as Python and Java, code can be arranged in Classes, which consist of Methods and Fields. These can be used to represent different objects which can be used around your code.","Creating a Converter class,Create a Method in the Converter class to convert a string in Roman numerals to a number,Create a Method in the Converter class to convert a number to a string in Roman numerals",Beginner,"# IV to 5, 5 to IV
+  
+The numeric system represented by Roman numerals originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages. Roman numerals, as used today, employ seven symbols, each with a fixed integer value.
+
+See the below table the Symbol - Value pairs:
+
+I - 1
+
+V - 5
+
+X - 10
+
+L - 50
+
+C - 100
+
+D - 500
+
+M - 1000
+This project is all about teaching you to use classes and methods to solve problems
+
+Write a class with methods to convert an integer to a roman numeral and vice versa
+  
+### Notes
+
+
+## Requirements
+  
+1. User should be able to enter one Roman number in an input field
+2. User could see the results in a single output field containing the decimal (base 10) equivalent of the roman number that was entered by pressing a button
+3. If a wrong symbol is entered, the User should see an error
+  
+## Useful links and resources
+
+[Roman numbers explained](https://en.wikipedia.org/wiki/Roman_numerals)
+  
+## Example projects
+
+A web app example can be found [here](https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php)",
+Putting it together with a Challenge,7rNwnNBTVwp1Im,1,Programming Hangman,1 week,Basics,Practice,#98FF73,"Hangman is a great project to put all the basics of learning to program together as it requires loops, conditionals and reading files to get right.  This is a great project to do if you're looking to move away from a beginner.","Create an array of words to play Hangman with,Give your user a number of guesses,Create a function to return a random word from the Array from Step 1,Check if the letter exists in the word,Let the user guess again until they run out of guesses,End the game if the user runs the game or runs out of guesses","Beginner,Loops,Classes,Selection","# Hangman
+  
+Let's put everything you've been working towards together.
+
+Build Hangman and put it on Github, then put the link here to complete this skill!
+  
+### Notes
+  
+* Try using the a list of words which have the same number of letters before mixing it up 
+
+## Requirements
+
+1. Your program should be able to read a list of words in and select a random word.
+2. Your program must show the user how many characters in the word there are
+3. The user must be able to guess the character of the word by inputting one letter at a time.
+4. The user should have 5 guesses. Every time they get one wrong, it should subtract by one
+5. When the user has no more guesses, the game should end. 
+6. If the user gets the word right, the game should end, congratulating the user.
+  
+## Useful links and resources
+
+* [A list of words](https://github.com/tabatkins/wordle-list/blob/main/words) from Wordle 
+  
+## Example projects
+  
+* If you are stuck, here is an [implementation of Hangman](https://github.com/jasmin-30/Hangman/tree/master/Hangman%20Game) - see how close you got and studying this code can give you ideas in the future. Make sure you give the project a try before you look at the answers.",
+Front End Fundamentals - React,A1lOwluqjikUJi,1,Pomodoro Clock,1 week - 1 month,Full Stack,Practice,#72A8FF,"So you want to get into Full Stack? Full Stack means being proficient in both the back end and front end. 
+
+For the front end, we recommend learning React. React is a library to build web UIs and very desirable in the industry. It is a a Javascript library.
+ 
+To prove you can do this, we have come with a challenge to build a Pomodoro clock. Pomodoro is a [technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) used to help manage work. Help manage your own work by building your own Pomodoro timer, which will teach you about timing libraries","What is React,React Tutorial","Front End,React,NodeJS,Beginner","# Pomodoro Clock
+
+The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks - 5 minutes.
+
+## Requirements
+
+-  User can see a timer for 25 minutes - this is the **working** session
+-  After the **working** session is over, the User can see a timer for 5 minutes - this is the **break** session
+-  User can _start_ / _pause_, _stop_ and _reset_ the timers 
+
+## Bonus features
+
+-  User can hear a sound playing when the timer hits `00:00` - denoting that the session has ended
+-  User can change / customize the minutes in both sessions before starting
+-  User can set a **long break** session of 10 minutes. This will be activated every 4th **break** session
+-  Add integrations such as Email or Push Notification so you can get a notification when your timer is up!
+
+## Useful links and resources
+
+-   More about the [Pomodoro Technique](https://en.m.wikipedia.org/wiki/Pomodoro_Technique)
+
+## Example projects
+
+-   [Joe Weaver's example](https://codepen.io/JoeWeaver/pen/bLbbxK)
+-   [FreeCodeCamp Pomodoro Clock example](https://codepen.io/freeCodeCamp/full/XpKrrW)
+-   [A desktop pomodoro app for menubar/tray.](https://github.com/amitmerchant1990/pomolectron)
+-   [Sheri Richardson's example](https://srd-pomodoro-timer.netlify.com/)
+-    [Here is a cool demo with source code](https://github.com/MaciejFigat/pomodoro) of a Pomodoro clock. Try use it as inspiration",
+Redux,mKnM0SzlqcqGBL,1,Coming Soon,1 week - 1 month,Full Stack,Practice,#72A8FF,"Redux is a state container for MERN apps (that means you can pass variables between components easier.) 
+
+It's a technology used in many apps to it's useful to know","What is Redux,Redux Tutorial","Front End,NodeJS","Make a React app that grabs data from an API and displays that data on a page nicely. Add option to filter, sort by category.
+Where state mgmt comes in.. Store that data in Redux.",checked
+Next.js,dAsdas2ffqsQDV,1,Coming Soon,1 week - 1 month,Full Stack,Practice,#72A8FF,"Next.js is a tool which allows you to add features like server-side rendering, routers, and lazy loading. This can help you create optimised websites",What is Next.JS,"NodeJS,Backend","Similar to the React task in used in Redux, you are going to build a React app that grabs data from an API and displays that data on a page nicely. Add option to filter, sort by category.
+Where state mgmt comes in.. Store that data in Redux.",checked
+UX and Responsiveness,nAsaXzIM4DBHoD,1,Product Landing Page,1 week - 1 month,Full Stack,Practice,#72A8FF,UX (User Experience) is about designing apps which are responsive and meets the users needs. It's important to know what UX is all about as well as coding!,"What is UX,What is Responsive Design ,Build a Responsive App - Tutorial","Front End,React","# Product Landing Page
+
+Whenever you have a product (or a service) that you want to sell, you'll want to have a website that will promote that product in the best way possible. You need to make sure that the information on the page is relevant, simple to understand and highlights all the awesome features of the product in order to higher the conversion rate.
+
+Conversion rate - the % of the visitors which purchase the product or service.
+
+When you have completed this app and the bonus features try leveling up your
+skills by expanding it to incorporate the features specified in the
+[Simple Online Store](../2-Intermediate/Simple-Online-Store.md).
+
+## Constraints 
+
+You might've done this as the first HTML project. This is a great project to learn HTML since it's single page and you're just focused on making it look nice. This time, you can only use React and external libraries. Do you find you are able to work faster?
+
+## Requirements
+
+These will cover the visual part of the project.
+
+* User can see on the page one or more images with the product
+* User can see a list with all the features of the product
+* User can see how this product will improve the buyers life. Why should he buy it?
+* User can see a contact section (a text with the email)
+* User can see a FAQ section
+* User can contact the staff members via a contact form
+* User can sign up to receive notifications about the product
+* User can purchase the product
+
+## Useful links and resources
+
+There are plenty of Product Landing Pages out there. You can use [Dribbble](www.dribbble.com) and [Behance](www.behance.net) for inspiration.
+
+## Example projects
+
+-   [Netlify](https://www.netlify.com/)
+-   [Product Landing Page - Codepen](https://codepen.io/l4ci/pen/LoGjk)",
+NodeJS,oq1t6J6JzFEeHv,1,Dollar to Cents,1 week - 2 weeks,Full Stack ,Practice,#72A8FF,"NodeJS is an open source server environment using JavaScript. It is once of the most in demand skills in the industry too.
+ 
+For this skill, you will need to build an application using NodeJS which can convert Dollars into Cents","What is NodeJS,A NodeJS tutorial,Advanced Topics with NodeJS","REST,Backend,NodeJS","# Dollars To Cents
+
+Converting dollars to cents would enable you to practice your fundamental knowledge of programming. Loops, if conditions and a simple algorithm will be used.
+
+Your task is to create a RESTful API which has two endpoints: /dollar and /cents. The user can hit the /dollar endpoint with a dollar value (float), assuming that it can also accept extra cents (ex. $2.75), and convert it into an integer (in this case, if $2.75 = 275). After this, convert into coins with the sub-type of dollars: penny, nickel, dime and quarter. This should be returned to the user in a JSON format.
+
+Use an algorithm that would divide the dollar value to the four coin types, and output few coins as possible.
+
+(EX. If you have $0.58, I would have 4 coins: 2 quarters, 0 dimes, 1 nickel and 3 pennies)
+
+## Constraints
+You might have done this task in the JavaScript section. That required you to use vanilla JS. You *must* use NodeJS for this
+
+## Requirements
+
+* There should be one endpoint: /dollar
+* User can send a dollar value to the /dollar endpoint 
+* User can see the total cents from the converted dollar value in the form of JSON
+
+## Bonus features
+
+* Create a /cents endpoint which lets the user convert cents into dollars
+
+## Useful links and resources
+
+-   [Math functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+-   [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+-   [Money values in JavaScript](https://timleland.com/money-in-javascript/)
+
+## Example projects
+
+-   [Dollars to cents converter](https://github.com/LimonJuice322/Dollars-to-cents-converter)",
+Cloud - AWS,d4OzzSuj3jvDp4,1,Converting Documents,1 week - 1 month,Full Stack,Practice,#72A8FF,"Learning to work with the Cloud is probably the most in demand skill currently. Many web applications are hosted on cloud platforms and so, we recommend AWS as it's the most used provider in the world.","What is AWS,Why get an AWS certification?,Hello World on AWS","AWS,Cloud","Rapid Document Conversion 
+Objective: The goal is to quickly and accurately convert the document to the desired format as selected by the user.
+Data is everywhere around us and therefore we feel the need to convert this data into many formats from time to time. If you are a student or a working professional you must have come across the need to convert a document to pdf or excel to a word document or any other format. That’s what AWS Lambda is for.AWS Lambda allows us to develop an application that can convert documents from one format to the other very easily and conveniently. 
+The CloudConvert API can be use to automatically convert all files, added to a specific S3 bucket. 
+Here is how the process works:
+1. User will upload their Office Document to the S3 bucket.
+2. Now, the Lambda function will be triggered by the S3 bucket with uploaded files details.
+3. Lambda function will convert documents with LibreOffice.
+4. Lambda function will upload PDF to S3 Bucket after conversion.
+5. After uploading you can also write additional code to update details in the Database.
+",checked
+Authentication,FDkc8LyHdKUeU3,1,Attendance Counter,1 week - 1 month,Full Stack,Practice,#72A8FF,"Authentication means allowing users to log in and log off. However, it also means managing content form different tiers of users.","What is Authentication,Tutorial - Build a login / Auth App","Authentication,Backend,NodeJS","Create Attendance Automation
+Objective: We will be creating a website for attendance automation using services such as AWS cognito, lightsail, amazon rekognition, etc.
+For authentication purpose, we will use AWS cognito so that students can log in on the website using their roll numbers.
+Further, Amazon virtual cloud server (LightSail) will be used which provides a free static IP address to host the website. Select an OS from the list of options and build the website using the MEAN stack.Following successful login, the user will have the option to open the device camera and scan their identity card on the dashboard.
+The Amazon Rekognition service which can store information about detected faces in server-side containers known as collections will be used to read and scan the image of students on the identity card. With this service, images are analyzed using a deep learning algorithm and are highly scalable. But first we have to manually add faces of students in that collection in one of the AWS regions in our account.
+As soon as the card is scanned, the details of students are saved in DynamoDB.",checked
+Full Stack Testing,kyLGk9Jc4ulBSc,1,Calculator,1 week - 1 month,Full Stack ,Practice,#72A8FF,"Calculator apps have a varying level of difficulty, ranging from simple if you only consider the simple operations such as addition and subtraction, to complex if you plan on adding operations such as integration etc.","What is Unit Testing?,What is Test Driven Development?,What is Functional Testing,Jest - Unit Testing with NodeJS,What is Integration Testing,Cypress - Frontend UI Testing ","Testing,React,NodeJS","# Calculator
+
+Calculators are not only one of the most useful tools available, but they are
+also a great way to understand UI and event processing in an application. In
+this problem you will create a calculator that supports basic arithmetic
+calculations on integers. 
+
+The styling is up to you so use your imagination and get creative! You might
+also find it worth your time to experiment with the calculator app on your
+mobile device to better understand basic functionality and edge cases.
+
+### Constraints
+
+- You may not use the `eval()` function to execute calculations
+- You must have unit tests created for each operation as you build each one out. This is easier to test in this situation since it's just checking the math makes sense. You can use any testing framework you like, such as Jest if you are using React
+- You must have some functional tests such testing whether clicking buttons produce the correct operations. You can use You can use any testing framework you like, such as Cypress
+
+## Requirements
+
+-  User can see a display showing the current number entered or the
+result of the last operation.
+-  User can see an entry pad containing buttons for the digits 0-9, 
+operations - '+', '-', '/', and '=', a 'C' button (for clear), and an 'AC'
+button (for clear all).
+-  User can enter numbers as sequences up to 8 digits long by clicking on
+digits in the entry pad. Entry of any digits more than 8 will be ignored.
+-  User can click on an operation button to display the result of that
+operation on:
+    * the result of the preceding operation and the last number entered OR
+    * the last two numbers entered OR
+    * the last number entered
+-  User can click the 'C' button to clear the last number or the last
+operation. If the users last entry was an operation the display will be
+updated to the value that preceded it.
+-  User can click the 'AC' button to clear all internal work areas and
+to set the display to 0.
+-  User can see 'ERR' displayed if any operation would exceed the 
+8 digit maximum.
+
+## Bonus features
+
+-  User can click a '+/-' button to change the sign of the number that is
+currently displayed.
+-  User can see a decimal point ('.') button on the entry pad to that 
+allows floating point numbers up to 3 places to be entered and operations to
+be carried out to the maximum number of decimal places entered for any one
+number.
+
+## Useful links and resources
+
+- [Calculator (Wikipedia)](https://en.wikipedia.org/wiki/Calculator)
+- [MDN](https://developer.mozilla.org/en-US/)
+- Follow a tutorial such as [this](https://www.codementor.io/@azeezolaniran2016/a-simple-calculator-app-using-react-and-node-a0ubeooxk) if you need to get started
+- Need an introduction to testing? Here are some links: [Unit testing explained](https://dashboard.stripe.com/login?redirect=%2Ftest%2Fpayments), [functional testing explained](https://www.guru99.com/functional-testing.html#:~:text=FUNCTIONAL%20TESTING%20is%20a%20type,output%20against%20the%20Functional%20requirements.) and [Introduction to JS unit testing](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/)
+
+## Example projects
+
+- [BHMBS - JS-Neumorphic-Calculator](https://barhouum7.github.io/JS-Neumorphic-Calc.github.io/)
+- [Javascript iOS Style Calculator](https://codepen.io/ssmkhrj/full/jOWBQqO)
+- [Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
+- [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
+- [Javascript-CALC](https://github.com/x0uter/javascript-calc)
+- [Sample Calculator](https://sevlasnog.github.io/sample-calculator)
+- [Python Calculator](https://github.com/kana800/Side-Projects/tree/master/1-Beginner/calculator)",checked
+Front End Security,ye9EQY0if9GNRI,1,Coming Soon,1 week - 1 month,Full Stack ,Practice,#72A8FF,"The rate and impact of security breaches in recent years makes it imperative
+that developers understand the methods bad actors use to compromise apps. 
+Understanding how an app can be compromised is the first step in coming up 
+with effective protection measures. ","What is Front End Security,Cross Site Scripting Attacks (XSS),Content Security Policy,What are cookies?,Data Sanitisation,How to store passwords properly,OWASP Top Ten","REST,Backend,NodeJS,Security,Hashing","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+RESTful APIs,sr2XOqj4gA7Yxr,1,Weather App,1 week - 1 month,Full Stack ,Practice,#72A8FF,Weather apps are a great way to demonstrate your knowledge of using APIs and can be readily usable for your local area.,"What are APIs,How to use APIs with NodeJS - A tutorial","Backend,NodeJS","# Weather App
+
+A weather application to get the temperature, weather condition and whether it is day or night of a particular city using `accuweather`. A free weather api.
+
+## Notes 
+* You don't need to use `accuweather`, you can use the [OpenWeatherAPI](https://openweathermap.org/) or any alternative you find.
+
+## Requirements
+
+-  Your user should be able to enter the name of a city into a input field.
+-  Your app should be able to take the city name, and then retreive the weather data from the `accuweather` API.
+-  The data returned from the `accuweather` API should update the `DOM` with the temperature, weather condition, image of day or night and weather condition icon.
+
+## Bonus features
+
+-  By closing the browser window the city name will be stored in localStorage and when the user returns, the name will be retrieved to make an api call to update the `DOM`.
+- The app should be able to get the user's location automatically
+
+## Useful links and resources
+
+- [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+- [accuweather](https://developer.accuweather.com/)
+- [axios](https://github.com/axios/axios)
+- [bootstrap](https://getbootstrap.com/)
+
+## Example projects
+
+- [Weather App on Codepen](https://codepen.io/tutsplus/pen/gObLaEP) by [George Martsoukos]
+- [Coding A Weather App In Pure JavaScipt](https://www.youtube.com/watch?v=ZPG2wGNj6J4)",
+Using CSS Frameworks,qss0rClyxL8l6p,1,Dynamic Variables,1 day - 1 week,Full Stack ,Practice,#72A8FF,"CSS variables are a powerful tool that lets the developer associate a symbolic name with a value, and then use that name in the stylesheet wherever that value is required. 
+
+In this project, you will learn to use CSS variables.","What is CSS,What are the best CSS Frameworks for React?,Material UI tutorial","NodeJS,React,Front End,CSS","# Dynamic CSS Variables
+
+CSS variables are a powerful tool that lets the developer associate a symbolic name with a value, and then use that name in the stylesheet wherever that value is required. The advantage is that when a change to that value is  required it only needs to change in the CSS variable definition rather than in
+the many spots it may be used.
+
+What can make this even more powerful is to dynamically change the value of a
+CSS variable at runtime.
+
+The goal of this app is to dynamically change the background color of text boxes
+based to let you gain experience using both CSS variables and dynamically 
+changing them from within the app.
+
+## Requirements
+* User can see three two boxes to be used to enter a User ID and Password
+along with 'Cancel' and 'Login' buttons underneath them. The default background
+color of the text boxes is white.
+* User can enter a user id and password into the text boxes.
+* User can click the 'Login' button to validate the user id and password.
+* User can see a warning message if one or both of the text boxes contains
+spaces and the background color of the empty text box will change to light
+yellow.
+* User can see a warning message if the user id doesn't match 'testuser'
+and the background color of the text box will change to light red.
+* User can see a warning message if the password doesn't match 'mypassword'
+and the background color of the text box will change to light red.
+* User can click the 'Cancel' button to clear the text boxes and reset
+their background colors to white.
+
+## Bonus features
+
+* User can see the color of the text box border change when an error is
+detected
+* User can see the size and font of the contents of the text box change
+when an error is detected.
+
+## Useful links and resources
+
+- [Custom properties (--*): CSS variables (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+- [CSSStyleDeclaration (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration)
+
+## Example projects
+
+[Dynamic CSS Variables](https://codepen.io/gordawn/pen/oOWBXX)",
+CRUD Apps,N7FbSQ3trfRxD1,1,Notes,1 week - 1 month,Full Stack ,Practice,#72A8FF,"Note taking is the current trend and a bit of a rite of passage of development. 
+On top of the project being an excellent way to develop full stack skills, you can learn CSS by building a beautiful note taking app","What are CRUD apps,CRUD App Examples","React,NodeJS,Beginner,NoSQL","# Notes App
+
+Create and store your notes for later purpose!
+
+## Requirements
+
+* User can create a note
+* User can edit a note
+* User can delete a note
+* When closing the browser window the notes will be stored and when the User returns, the data will be retrieved
+* User can create and edit a note in Markdown format. On save it will convert Markdown to HTML
+* User can see the date when he created the note
+
+## Useful links and resources
+
+-   [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+-   [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+-   [Marked - A markdown parser](https://github.com/markedjs/marked)
+
+## Example projects
+
+-   [Markdown Notes built with Angular on Codepen](https://codepen.io/nickmoreton/full/gbyygq)
+-   [Markdown Notes built with React](https://github.com/email2vimalraj/notes-app)
+-   [Markdown Notes built with Angular 7 and bootstrap 4](https://github.com/omdnaik/angular-ui)",
+Databases - NoSQL,vKke8IM3P0FqSp,1,Quiz ,1 week - 1 month,Full Stack,Practice,#72A8FF,Building a quiz app to practice and test your knowledge by answering questions after you build it! You can test yourself by writing interview questions and concepts.,"What are non-relational databases,Non-relational database tutorial with MongoDB","NodeJS,React,NoSQL","# Quiz App
+
+Practice and test your knowledge by answering questions in a quiz application.
+
+As a developer you can create a quiz application for testing coding skills of other developers. (HTML, CSS, JavaScript, Python, PHP, etc...)
+
+## Requirements
+
+-  User can start the quiz by pressing a `button`
+-  User can see a question with 4 possible answers
+-  After selecting an answer, display the next question to the User. Do this until the quiz is finished
+-   At the end, the User can see the following statistics
+-   Time it took to finish the quiz
+-   How many correct answers did he get
+-   A message showing if he `passed` or `failed` the quiz
+
+## Bonus features
+
+-   [ ] User can share the result of a quiz on social media
+-   [ ] Add multiple quizzes to the application. User can select which one to take
+-   [ ] User can create an account and have all the scores saved in his dashboard. User can complete a quiz multiple times
+
+## Useful links and resources
+
+-   [Open Trivia Database](https://opentdb.com/api_config.php)
+
+## Example projects
+
+-   [Quiz app built with React](http://tranquil-beyond-43849.herokuapp.com/) (wait for it to load as it is hosted on Heroku)
+-   [Quiz app interface](https://codepen.io/FlorinPop17/full/qqYNgW)
+-   [Quiz Progressive Web App built with React](https://github.com/SafdarJamal/quiz-app)",checked
+Databases - SQL,yfwk1kAMz0OhJG,1,Recipe,1 week - 1 month,Full Stack,Practice,#72A8FF,"What better way to learn something like GraphQL by building a proper CRUD (Create, Read, Update, Destroy) app? 
+It's a bit on the long side this one, but you can easily replace recipes with anything else like music and you can make tons of apps.","Introduction to relational databases,Introduction to SQLite - A tutorial,Building a CRUD app with PostgreSQL and React","GraphQL,React,NoSQL,Beginner","# Recipe
+
+The objective of the Recipe app is to help the user manage recipes in a way
+that will make them easy to follow.
+
+### Constraints
+
+- For the initial version of this app the recipe data may be encoded as a JSON file.
+- After implementing the initial version of this app you must maintain recipes in a file or database.
+- In order to retreive the data, you must use GraphQL
+
+## Requirements
+
+1.  User can see a list of recipe titles
+2.  User can click a recipe title to display a recipe card containing the recipe title, meal type (breakfast, lunch, supper, or snack), number of people it serves, its difficulty level (beginner, intermediate, advanced), the list of ingredients (including their amounts), and the preparation steps.
+3.  User click a new recipe title to replace the current card with a new recipe.
+4.  User can see a photo showing what the item looks like after it has
+    been prepared.
+5.  User can search for a recipe not in the list of recipe titles by
+    entering the meal name into a search box and clicking a 'Search' button. Any
+    open source recipe API may be used as the source for recipes (see The MealDB
+    below).
+6.  User can see a list of recipes matching the search terms
+    5.User can click the name of the recipe to display its recipe card.
+7.  User can see a warning message if no matching recipe was found.
+8.  User can click a 'Save' button on the cards for recipes located through
+    the API to save a copy to this apps recipe file or database.
+
+## Useful links and resources
+
+- [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [Axios](https://www.npmjs.com/package/axios)
+- [The MealDB API](https://www.themealdb.com/api.php)
+
+## Example projects
+
+- [Recipe Box - a Free Code Camp Project (FCC)](https://codepen.io/eddyerburgh/pen/xVeJvB)
+- [React Recipe Box](https://codepen.io/inkblotty/pen/oxWRme)
+",
+The Bare Minimum: To Do App,ovq8UwtVzxyxN2,1,To-Do,1 week - 1 month,Full Stack ,Practice,#FF7373,"The classic To-Do application where a user can write down all the things they want to accomplish.
+
+This project is especially useful when learning how to develop full stack applications with databases as you will need to build a full stack application
+
+This is apparently also the bare minimum of a project to be taken seriously in the job market (according to our research) ",,"SQL,React,NodeJS,Beginner","# To-Do App
+
+The classic To-Do application where a user can write down all the things they want to accomplish.
+
+## User Stories
+
+* User can see an `input` field where he can type in a to-do item
+* By pressing enter (or a button), the User can submit the to-do item and can see that being added to a list of to-do's
+* User can mark a to-do as `completed`
+* User can remove a to-do item by pressing on a button (or on the to-do item itself)
+* User can edit a to-do
+* User can see a list with all the completed to-do's
+* User can see a list with all the active to-do's
+* User can see the date when he created the to-do
+* When closing the browser window the to-do's will be stored and when the User returns, the data will be retrieved
+
+## Useful links and resources
+
+-  [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+## Example projects
+
+-  [Todo App built with React](http://todomvc.com/examples/react/#/)
+-  [To Do List on Codepen](https://codepen.io/yesilfasulye/pen/eJIuF) by [Burak Kaya](https://codepen.io/yesilfasulye/)
+-  [Todo App in Plain JavaScript](https://safdarjamal.github.io/todo-app/)
+-  [Todo App in Golang](https://github.com/schadokar/go-to-do-app)",
+E-commerce website,iQFvHzLX9MidqR,1,E-Commerce ,1 week - 1 month,Full Stack,Impressive,#FF7373,"Whenever you have a product (or a service) that you want to sell, you'll want to have a website that will promote that product in the best way possible.
+
+Building a eye-catching and well-designed product landing page can help you do just that",,"NodeJS,React,Front End,CSS","# E-Commerce Store
+
+If you have done the Product Landing Page project, you implemented
+a landing page to provide your users with information about a product and to
+hopefully increase your sites conversion rate.
+
+The goal of this project is to give your users the capability of 
+selecting a product to purchase, viewing purchase information, adding it to
+an online shopping cart, and finally, actually purchasing the products in the
+shopping cart.
+
+### Notes
+
+- Starting out you may implement your product inventory as an array of 
+Javascript objects if you are developing in Javascript. For other languages
+feel free to choose the in memory solution of your choice.
+
+## Requirements
+
+-  User can click on a `View Products` button on the Landing Page to 
+display the Products Page.
+-  User can see a card on the Products Page for each
+Product showing the product thumbnail, name, price, a short description,
+and a `Select` button.
+-  User can see a Product Details page displayed when the `Select` button
+is clicked showing the same information from the product card, but also a 
+unique product id, a long description, `Add to Cart` button, and a 
+`See More Products` button.
+-  User can see a confirmation message when the product is added to the
+shopping cart.
+-  User can click on the `See More Products` page to return to the 
+Products Page. 
+-  User can see a `Shopping Cart` button on both the Landing
+Page or the Products Page. Hint:  a top bar might be a good common location
+for this button.
+-  User can click on the `Shopping Cart` button to display the Shopping
+Cart page containing the product id, name, price, and quantity
+ordered input box for each product previously added to the Shopping Cart.
+-  User can see a total purchase amount on the Shopping Card that is
+calculated as the sum of the quantities multiplied by the unit price for each
+product ordered.
+-  User can adjust the quantity ordered for any product to adjust the
+total purchase amount. 
+-  User can click a `Place Order` button on the Shopping Cart Page to 
+complete the order. User will see a confirmation number when the order has been
+placed.
+-  User can click a `Cancel Order` button on the Shopping Cart Page to 
+cancel the order. User will see the product quantities and the total purchase
+amount reset to zero.
+-  User can click a `See More Products` button on the Shopping Cart Page
+to return to the Products Page. If the order hasn't been placed yet this will
+not clear the products that have already been added to the Products Page.
+
+## Bonus features
+
+-  User can see an error message if the quantity ordered exceeds the 
+""on hand"" quantity of the product.
+-  User can specify a bill to and ship to address when the order is
+placed from the Shopping Cart Page
+-  User can see shipping charges added to the total purchase amount
+-  User can see sales taxes added to the total purchase amount
+-  Developer will implement the product inventory in an external file or
+a database.
+
+## Useful links and resources
+
+There are plenty of eCommerce Site Pages out there. You can use [Dribbble](https://www.dribbble.com) and [Behance](https://www.behance.net) for inspiration.
+
+## Example projects
+
+-   [eCommerce Animations](https://codepen.io/RSH87/pen/RagqEv)
+",
+Task Management app,ovq8UwtVzxyxN2,1,Task Managment,1 week - 1 month,Full Stack ,Impressive,#FF7373,Task management apps are all the rage nowadays and a well designed one can help improve productivity. Doing one will push your front-end functionality skills as there are a lot of moving parts.,,"SQL,React,NodeJS,Beginner","# Task Management App
+
+The next step from a To-Do app is a Task Managment app. You will expand your front end skills by building this project and due to the higher requirement of functionality, 
+
+There are a lot of Task Management apps out there which can integrate with your calendar. With that being said, building one yourself is a technically demanding but rewarding challenge as you will be using lots of different components to build it.
+  
+Your goal is to bring a task management app which can let users create tasks, track them and close them. 
+  
+### Notes
+  
+* There are many ways to do this - you can use a Kanban board, or a Scrum board. Do your research and decide how you want to lay it out.
+* For this project, we have decided to build the requirements around a Kanban board. 
+
+## Requirements
+  
+-  User can create a task. A task should store 3 pieces of data: the task's name, description and the status of the task
+-  The task by default will fall in the To Do column.
+-  There are 3 columns - To Do / Doing and Done
+-  Tasks can be dragged from one column to another, updating the status
+  
+## Bonus Features 
+
+-  Add features to the tasks such as allow you to set deadlines, notifications, move it into multiple stages etc.
+  
+## Example projects
+  
+1. For inspiration, look websites like [monday.com](https://monday.com) and [asana.com](https://asana.com/)",
+Meme Generator App,7rNwnNBTVwp1If,1,Meme Generator,1 week - 1 month,Full Stack ,Impressive,#FF7373,Memes are the rage on the internet today because of their ability to be modified to fit different situations easily. Building a meme generator is both challenging as you have to essentially create a image processor and fun because you get to make memes ,,"Beginner,Programming Basics,Loops,Classes","# Meme Generator App
+
+Allow users to generate custom memes by adding text over an image.
+
+## Requirements
+
+-  User can upload an image that will appear in a canvas
+-  User can add text in the top part of the image
+-  User can add text in the bottom part of the image
+-  User can select the color of the text
+-  User can select the size of the text
+-  User can save the resulting meme
+
+## Bonus features
+
+-  User can select the font-family for the text
+-  User can share the meme on social media (twitter, reddit, facebook, etc)
+-  User can drag the text around and place it wherever he wants on top of the image
+-  User can draw shapes on top of the image (circles, rectangles, or free drawing with the mouse)
+
+## Useful links and resources
+
+- Working with canvas is made very easy by the [p5js](http://p5js.org/) library.
+- Need a hand? Start with the [tutorial](https://dev.to/viclafouch/a-full-stack-meme-generator-with-react-hooks-express-5dc7)  
+
+## Example projects
+
+-   [Meme Generator by imgflip](https://imgflip.com/memegenerator)
+-   [Meme Generator by Niels Vadot](https://codepen.io/ninivert/pen/BpLKRx)",
+Instagram Clone using MERN,gxoqhO7xNsYOWL,1,Instagram Clone,2 weeks - 1 month,Full Stack,Impressive,#FF7373,"Using all the skills in the Full Stack developers arsenal, you are going to build an Instagram clone. This is a pretty large project but is a great exercise in demonstrating your skills ",,"NodeJS,React,GraphQL,NoSQL","# Instagram Clone
+
+A clone of Facebook's Instagram app where you can login/register, create new posts, follow other users and see other people you follows posts
+
+You should create a MVP (Minimum Viable Product) using a Full stack approach such as the MEAN, MERN or VENM Stack to store images to the server and display them to the client.
+
+## Requirements
+
+* User can register for an account storing their name, email/username and password then login to the app using their credentials
+* User can create a post and store images to the server (Preferably in a database)
+* User has a profile that displays all the images they have uploaded
+* User can follow other users
+* User can see other users posts (people who the user follows)
+* User can see a global feed of images
+* The feed auth refreshes when a new post is added (You can use Web Sockets)
+* User can send messages to other users
+* User can create a story for followers
+
+## Useful links and resources
+
+-   [How to make an Instagram clone](https://www.youtube.com/watch?v=9dRSNQe7PWw)
+-   [Node & Mongo Basic CRUD Operations](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
+-   [Socket.io](https://socket.io)
+-   [MERN Stack](http://mern.io/)
+-   [User Authentication with Node](https://medium.com/silibrain/using-passport-bcrypt-for-full-stack-app-user-authentication-fe30a013604e)
+-   [Express File Uploads with Multer](https://scotch.io/tutorials/express-file-uploads-with-multer)
+
+## Example projects
+
+-   [Instagram](https://www.instagram.com/)",
+Data Science Introduction,UR6GvGljcfAKbB,1,Titanic,1 week,Data Science,Practice,#98FF73,Titanic is the introductory dataset on Kaggle and is considered a rite of passage when one enters Data Science.,"What is Data Science,How Kaggle helps people into Data Science,How to learn Data Science ","Classification,Kaggle,Regression","# Titanic
+
+Titanic is the introductory dataset on Kaggle and is considered a rite of passage when one enters Data Science.
+
+Your task is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. Classification is the task of separating items into their corresponding class. You can implement a machine learning classification or regression model on the dataset. This dataset is also instrumental in learning the differences between supervised and unsupervised learning.
+
+### Constraints
+  
+* You must do the challenge hosted on Kaggle - get yourself set up by finding the challenge [here](https://www.kaggle.com/c/titanic)
+
+## Requirements
+    
+* Classification is the task of separating items into their corresponding class. For this taks, your goal is to use classification to predict which passenger survived Titanic. 
+* For each passenger in the test data, you have to predict 0 (dead) or 1 (survived)
+* Your score is the percentage of passengers you correctly predict. This is known as accuracy.
+* More details can be found [on the challenge](https://www.kaggle.com/c/titanic))
+
+# Bonus 
+* You can implement a machine learning classification or regression model on this dataset, depending on your target variable. This dataset is also instrumental in learning the differences between supervised and unsupervised learning.
+
+## Example projects
+  
+* [Step by Step Analysis by Absolute Beginners](https://www.kaggle.com/code/abhikuks/step-by-step-analysis-for-absolute-beginners)",
+Maths Fundamentals ,MDR6Gv7JSbvC1,1,Coming Soon,1 week,Data Science,Practice,#98FF73,"Data Science is a perfect blend of Statistical Maths and Programming, which means Data Scientists need to be well versed in both areas","Free Textbook for Mathematical Foundations of the book,Mathematical Lectures for ML (Youtube),Mathematical Lectures (Carnegie Mellon),Linear Algebra Crash Course","Data Science,Machine Learning","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Supervised Learning,PdizI22M9W9tQX,1,Coming Soon,1 week,Data Science,Practice,#98FF73,Supervised learning is a type of learning task which aims to create a function which can map an input to an output based on labelled training examples through inference,"What is a Dataset,How to work with Datasets,What is Supervised Learning,Supervised Learning - A safe toy dataset",Supervised Learning,"# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Unsupervised Learning,V9RoSNqI17JSbv,1,Iris,1 week,Data Science,Practice,#98FF73,"Unsupervised learning, also known as pattern matching, is where we attempt to use algorithms to discover trends in unlabelled data","What is a Dataset,How to work with Datasets,What is Unsupervised Learning,Unsupervised Learning - A safe toy dataset","Classification,Regression,Unsupervised Learning","# Iris
+
+The Iris dataset is a beginner-friendly dataset (called toy datasets) that has 150 rows with four columns with the petal and sepal sizes of the three different species of iris flower.
+
+## Requirements
+
+You have two tasks: 
+1) Build a regression model to predict the petal size or sepal size given certain feature values
+2) build a classifier which can tell you what species of iris a flower is depending on it's petal and sepal size. 
+
+In order to achieve this, you must download the dataset (avaialable in the link below) and load it using your preferred machine learning tool (such as Python.)
+
+Then you can work with it!
+
+## Bonus
+* Build a web app around either taks and deploy it.
+
+# Links
+* The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Iris)
+* More details about Iris can be found on [it's Kaggle page](https://www.kaggle.com/datasets/uciml/iris)
+
+## Example projects
+  
+* [Iris classification](https://www.kaggle.com/code/lakshmiph/iris-eda-and-classification)
+* [Projects which do regression on Iris](https://www.kaggle.com/datasets/uciml/iris/code?datasetId=19&searchQuery=regression)",
+Neural Networks,y7A8VbV1rJaLGC,1,Coming Soon,1 week - 1 month,Data Science,Practice,#FF7373,Neural networks are types of models built of nodes which contain functions and weights. These are used in many tasks ,"What are Neural Networks,Why do we use Neural Networks,Writing a Neural Network from scatch,Neural Networks - Explained",Neural Network,"# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Linear Regression,y7A8V3OdaVyxu,1,Coming Soon,1 week - 1 month,Data Science,Practice,#FF7373,"Linear regression is a technique for modelling the relationship between variables. 
+
+It is simple, and can be very powerful to model quickly. ","What is Linear Regression,What is multivariate regression,How to do linear regression using a Python Tutorial","Supervised Learning,Non-Supervised Learning,Regression","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+SVMs and Decision Trees,V9RoV1rJaGNTHz,1,Coming Soon,1 week - 1 month,Data Science,Practice,#FF7373,SVMs and Decision Trees are learning techniques used for regression or classification,"What are SVMs,What are Decision Trees","SVM,Decision Trees","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+CNN,J96WRPpOAr4Vqq,1,Breast Histology,1 week - 1 month,Data Science,Practice,#FF7373,Type of neural network which is many neural networks connected by using convolutions to apply processing to the images.,What are CNNs,"CNN,Image Data,Classification","# Breast Histology
+  
+The Breast Histopathology Images dataset contains around around 3 million images taken from mount slide images of breast cancer specimens. 
+  
+Your objective is to build a model that can classify a tumour image as malignant or benign. 
+
+### Notes
+  
+* The original dataset consisted of 162 whole mount slide images of Breast Cancer (BCa) specimens scanned at 40x. From that, 277,524 patches of size 50 x 50 were extracted (198,738 IDC negative and 78,786 IDC positive). Each patch’s file name is of the format: uxXyYclassC.png — > example 10253idx5x1351y1101class0.png . Where u is the patient ID (10253idx5), X is the x-coordinate of where this patch was cropped from, Y is the y-coordinate of where this patch was cropped from, and C indicates the class where 0 is non-IDC and 1 is ID
+* You can use a CNN for this, but experiment with different architectures
+
+## Requirements
+  
+* Your model must be able to classify a tumour image as malignant or benign. You may also want to calculate the confidence in your decisions.
+  
+## Useful links and resources
+
+* Download the data [here](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
+  
+## Example projects
+  
+* Here is a demo using [VGG16](https://www.kaggle.com/code/ayushv322/breast-cancer-detection-vgg16)",
+RNN,5ZBrZ5WpCFqc3m,1,Blog Post,1 week - 1 month,Data Science,Practice,#FF7373,Recurrent Neural Networks are where data can flow in other directions other than forwards. This is used in time series or sequential data.,What are RNNs,RNN,"# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Small Datasets,P6ZD6x3OdaVyxu,1,Parkinsons,1 week,Data Science,Practice,#72A8FF,Parkinson dataset contains biomedical measurements from 195 people with Parkinson. This dataset is great for getting practice with smaller datasets.,How to work with small datasets,"Supervised Learning,Classification,Decision Trees","# Parkinsons
+
+Parkinson dataset contains biomedical measurements from 195 people with Parkinson. This dataset is great for getting practice with smaller datasets.
+
+
+## Requirements
+
+1) Build a model that can classify healthy people from people having Parkinson’s disease. Hint: The XgBoost dataset has been successful here
+
+## Bonus
+* Build a web app around the task and deploy it.
+* There are plenty of Parkinson's datasets availables: some can be found on the [Michael J Fox website](https://www.michaeljfox.org/data-sets)
+
+# Links
+* You can find the dataset [here](https://archive.ics.uci.edu/ml/datasets/parkinsons)
+* More details about the Parkinson's dataset can be found on [it's Kaggle page](https://www.kaggle.com/datasets/nidaguler/parkinsons-data-set)
+
+## Example projects
+  
+* [Parkinson's Disease Classification](https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features)",
+Advanced types of learning,5oVD4hWnTaCQiO,1,Coming Soon,1 week,Data Science,Practice,#72A8FF,There are many types of problems and different approaches to learning. Experimenting with different types can help you make a decision on what model to use,The cutting edge of machine learning,"Machine Learning,Research","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",checked
+Working with Raw Data,rMWZdDg2bPV3n0,1,Enron Data Set,1 week - 1 month,Data Science,Practice,#FF7373,"A lot of data in a production environment isn't clean and needs processing before it can be used. 
+You will need to develop the skill to deal with this kind of data. 
+
+The project here is to use the Enron Dataset is a beginner friendly dataset for Natural Language processing. It consists of 500K+ emails sent by employees, most who are senior. ",,"NLP,Unsupervised Learning,Classification","# Raw data with Enron Email Dataset
+  
+Enron Dataset is a beginner friendly dataset for Natural Language processing. However, the catch here is that the data isn't as clean as the 
+data sets you would've used in previous assignments. The data will need to be cleaned, massaged and prepared to be worked with before it can
+be used for training.
+
+Your objective is to prepare the data, and then using NLP, identify fraud.
+
+### Notes
+  
+* This dataset consists of 500K+ emails sent by employees, most who are senior. 
+* You don't need to use NLP - you can use k-means clustering to detect fraudulent activities from the contents of the emails
+* Use NLP architectures to analyse the emails and draw insights. 
+
+## Requirements
+  
+* Load, clean and prepare the data so it can be worked with. Hey - real data is nothing like Kaggle!
+* Develop a model which can be used for fraud detection using this dataset.
+* Your source code and model should be available for the public
+  
+## Useful links and resources
+
+The dataset can be found [here](https://www.cs.cmu.edu/~enron/)
+  
+## Example projects
+  
+* A good example with source code can be found (here using R)[https://www.kaggle.com/code/ntltam/enron-case-fraud-identification-model]
+",
+Deploying ML models,xWa5inO9tOxPGf,1,Coming Soon,1 week,Data Science,Practice,#72A8FF,Knowing how to do this is very important as it means people can use your models,"How to deploy a ML model,Kaggle VS Real Life Data Science","Production,Model Deployment","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",checked
+Production Grade Models,ClMDBf5ZBrZ5dx,1,Coming Soon,1 week,Data Science,Practice,#72A8FF,"Models which are used in production must be efficient and fast to be able to deal with the level of requests they expect. 
+
+Learning how to build a production grade model will help you deploy models to meet business demand. 
+
+You will learn this by developing models in a language such as Java or C++ and how to monitor them",Writing models using Java and Tensorflow - Tutorial,"Production,Java","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",checked
+Creating a Recommender Systems Dataset,JIUERfXXdv8d8P,1,Recommender Systems,1 month - 2 months,Data Science,Impressive,#FF7373,"The Recommender Systems Dataset from UCSD is a set of datasets from popular websites like Goodreads book reviews, Amazon product reviews, social media etc. which are used to build recommender systems.",What are recommender systems,"Supervised Learning,NLP,Recommendation,Unsupervised Learning","# Recommender Systems
+  
+The Recommender Systems Dataset from UCSD is a set of datasets from popular websites like Goodreads book reviews, Amazon product reviews, social media etc. which are used to build recommender systems.
+  
+Your goal is to create an app which uses a recommendation system for a product of your choice for example, a book recommender system
+
+### Notes
+  
+* There are quite a lot of datasets here so try a few and have a play around.
+
+## Requirements
+  
+* The recommendation system should suggest the user products based on interests and product history
+* The recommendation system should be interfaced by using a web app. You can use any stack to create your app. 
+
+## Bonus Features
+* Using the data, can you predict which products will be popular in the future?
+  
+## Useful links and resources
+
+Look through the dataset [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html) and find a dataset that interests you
+
+## Example projects
+  
+* An example of a recommendation system can be found [here](https://github.com/dorukkilitcioglu/books2rec)",
+AI4Code,YoNaW5l94Btnmg,1,AI4Code,2 months + ,Data Science,Impressive,#FF7373,A community request! An on-going data science contest from Google to understand the relationships between code and comments,,"Supervised Learning,Kaggle","# AI4Code 
+  
+A community request!   
+
+The goal of this competition is to understand the relationship between code and comments in Python notebooks. You are challenged to reconstruct the order of markdown cells in a given notebook based on the order of the code cells, demonstrating comprehension of which natural language references which code.
+
+### Notes
+  
+This challenge is hosted entirely on Kaggle: feel free to used the tools on this website (such as finding a partner to team up with and using the task tracker) to help you manage and work through the challege
+
+## Requirements 
+* The requirements for this challenge can be [found here](https://www.kaggle.com/competitions/AI4Code/overview/evaluation)
+
+## Useful links and resources
+
+The challenge can be [found here](https://www.kaggle.com/competitions/AI4Code/overview)
+  
+## Example projects
+
+On going challenge so [look here for examples](https://www.kaggle.com/competitions/AI4Code/discussion)",
+Data Structures and Algorithms Introduction,dSAAmd192ufjnce,1,Coming Soon,1 week,Algorithms and Data Structures,Practice,#72A8FF,Data Structures and Algorithms is the most ,"Introduction to Data Structure and Algorithms (and what is LeetCode),The best book for learning data structures and algorithms,List of DS&A Questions and Answers commonly used in interviews,Why do data structures and algorithms (even if you are not interviewing),""Why companies do """"LeetCode"""""",How to study Data Structures and Algorithms,"" Companies which don't use """"LeetCode"""" interviews""",DS&A,"# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Arrays,l4aWDZe0Eo6WDp,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,"One of the most common data structures, arrays are basically a collection of data and are commonly used in algorithms. ","Introduction to Arrays as a Data Structure,Introduction to Arrays in Python,The Mechanisms of Arrays,Easy Array Question,Medium Array Question,Hard Array Questions","Arrays,DS&A","Getting interview ready
+
+Above are some homework tasks of varying difficulties. Give the one appropriate to you a shot and submit it  ",
+Linked Lists,x6NIsTxjvXkG5G,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,"A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list. This is used to traverse through file data, and is common topic in interviews","Introduction to Linked Lists,Introduction to Linked lists in Python,Implementing Linked Lists in Java,The Mechanisms of Linked Lists,Easy Linked List Question,Medium Linked List Question ,Hard Linked List Question","Linked Lists,DS&A","Getting interview ready
+
+Above are some homework tasks of varying difficulties. Give the one appropriate to you a shot and submit it  ",
+Stacks and Queues,eeIpO1CP1il88Y,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,A stack and queue are data structures following which work really when when you want to work with the first and last elements of a list of objects. A common interview topic too,"Introduction to Stacks And Queues,Stacks and Queues in Python,The Mechanisms of Stacks and Queues,Easy Stacks and Queues Question,Medium Stacks and Queues Question,Hard Stacks and Queues Question","Stacks and Queues,DS&A","Getting interview ready
+
+Above are some homework tasks of varying difficulties. Give the one appropriate to you a shot and submit it  ",
+Tree and Graphs,JhKIOpbBjr0y1c,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,Graph and tree are the non-linear data structure which is used to solve various complex problems. Lots of things are modelled using trees and this too is a very common interview question,"Introduction to Trees and Graphs,Trees and Graphs in Python (Tutorial),Trees VS Graphs,Easy Trees and Graphs Question,Medium Trees and Graphs Question,Hard Stacks and Queues Question","Trees and Graphs,DS&A","Getting interview ready
+
+Above are some homework tasks of varying difficulties. Give the one appropriate to you a shot and submit it  ",
+Bit Manipulation,VMc3pBuWlQy3E3,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,Computers work in binary (1s and 0s) and knowing how to work in binary can help optimise your code. It's also pretty useful when working directly with hardware,"Introduction to Bit Manipulation,Bit Manipulation Techniques,Bit Manipulation Tutorial,Easy Bit Manipulation Question,Medium Bit Manipulation Question,Hard Bit Manipulation Question","Bit Manipulation,DS&A","Getting interview ready
+
+Above are some homework tasks of varying difficulties. Give the one appropriate to you a shot and submit it  ",
+Recursion and Dynamic Programming,f0f4DLEbaY7aJU,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,Recursion is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem.,"Introduction to Recursion and Dynamic Programming,Understanding the difference between Recursion and DP,Recursion and Dynamic Programming Easy Question,Recursion and Dynamic Programming Hard Question,Recursion and Dynamic Programming Medium Question","Recursion,Dynamic Programming,DS&A","Getting interview ready
+
+Above are some homework tasks of varying difficulties. Give the one appropriate to you a shot and submit it  ",
+Sorting and Searching,Ebuml9xZwjUy8F,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,Looking for an item you want in a data structure such as a tree is useful. Sometimes you also want to manipulate and move data so it appears in a certain way. This is sorting.,"Sorting and Searching - A Lecture,Sorting and Searching Easy Question,Sorting and Searching Medium Question,Sorting and Searching Hard Question","Sorting,Searching,DS&A","Getting interview ready
+
+Above are some homework tasks of varying difficulties. Give the one appropriate to you a shot and submit it  ",
+Threads and Locks ,X5F68Rvdq1hLdY,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,Computers can run processes in parallel to improve optimisation and solve difficult problems. Very useful for the modern day computer!,"Introduction to Threads and Locks,Threads and Locks Tutorial using Java,Threads and Locks Questions","Threads,DS&A","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",checked
+Big-O and Algorithmic Complexity,MnKtTeHymTEeao,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. Knowing this means you can evaluate whether your algorithm is efficient or not,"Introduction to Big O,A lecture on Big-O,Big-O Questions","Big O,DS&A","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+System Design and Architecture,MnKtDSAdmadv3,1,Coming Soon,2 weeks,Algorithms and Data Structures,Practice,#72A8FF,"System Design and Architecture is an interview usually reserved for senior level developers. Seniors are expected to lead designs of features - and so, these interviews are designed to know whether you can scale a design","Systems and Design - Great Video Series,Important System Design Concepts","Systems Design,Architecture,DS&A","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Web Fundamentals Introduction,j57FBrjfdlA7d5,1,Coming Soon,1 week,Web Fundamentals,Practice,#72A8FF,"The Web is described as a massive network of computers exchanging information. 
+
+A web developer builds websites for it, delivering content to other users. 
+
+In this section, you will learn some basics about the web ","What is the Web - A video series,HTTP/S and protocols,What is the Internet? ","Web Development,HTML","# Spelling it loud for those in the back
+  
+If you are new, this topic can be hard to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+HTML,uxkNFnH2aFkMhf,1,Product Landing Page,1 week,Web Fundamentals,Practice,#72A8FF,"HTML (HyperText Markup Language) is the language used to create websites. While simple, it is incredibly powerful and is a cornerstone of modern website design","Create an HTML page (a file ending with .html) to be your first web page called index.html,""Add the words """"Hello user!"""" to it, and draw a box""",HTML,"# Your First Blog Post
+  
+Your personal website is an important landmark step in showing yourself on the internet. We will take the first step here and just get something on HTML
+
+Your goal is to design a website which will just have text you put in.
+
+### Notes
+  
+* Good portfolio websites tend to work on both mobile and desktop websites. Think about responsiveness
+
+## Requirements
+  
+* You will have to build a personal website saying who you are and that you are a web developer 
+* You will need to do this using a static website - so use JS / CSS / HTML
+* You may host this on Github pages or use another website hosting service ",
+CSS,5szmRf3aTGSDI1,1,Dynamic CSS Variables,1 week,Web Fundamentals,Practice,#72A8FF,"CSS (Cascading Style Sheets) are files used to  design and ""make websites pretty""
+
+You will learn how to use CSS and how it works.","Create an HTML page and connect a CSS stylesheet to it,Create two boxes for User name and Password,Create a button for Logging In,Use a CSS variable to create a warning message: if one or both of the text boxes contains spaces and the background colour of the empty text box will change to light yellow.",CSS,"# Dynamic CSS Variables
+
+CSS variables are a powerful tool that lets the developer associate a symbolic
+name with a value, and then use that name in the stylesheet wherever that
+value is required. The advantage is that when a change to that value is 
+required it only needs to change in the CSS variable definition rather than in
+the many spots it may be used.
+
+What can make this even more powerful is to dynamically change the value of a
+CSS variable at runtime.
+
+The goal of this app is to dynamically change the background color of text boxes
+based to let you gain experience using both CSS variables and dynamically 
+changing them from within the app.
+
+## Requirements
+* User can see three two boxes to be used to enter a User ID and Password
+along with 'Cancel' and 'Login' buttons underneath them. The default background
+color of the text boxes is white.
+* User can enter a user id and password into the text boxes.
+* User can click the 'Login' button to validate the user id and password.
+* User can see a warning message if one or both of the text boxes contains
+spaces and the background color of the empty text box will change to light
+yellow.
+* User can see a warning message if the user id doesn't match 'testuser'
+and the background color of the text box will change to light red.
+* User can see a warning message if the password doesn't match 'mypassword'
+and the background color of the text box will change to light red.
+* User can click the 'Cancel' button to clear the text boxes and reset
+their background colors to white.
+
+## Bonus features
+
+* User can see the color of the text box border change when an error is
+detected
+* User can see the size and font of the contents of the text box change
+when an error is detected.
+
+## Useful links and resources
+
+- [Custom properties (--*): CSS variables (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+- [CSSStyleDeclaration (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration)
+
+## Example projects
+
+[Dynamic CSS Variables](https://codepen.io/gordawn/pen/oOWBXX)",
+Using CSS Frameworks,qss0rClyxL8l6p,1,Dynamic Variables,1 day - 1 week,Web Fundamentals,Practice,#72A8FF,"CSS variables are a powerful tool that lets the developer associate a symbolic name with a value, and then use that name in the stylesheet wherever that value is required. 
+
+In this project, you will learn to use CSS variables.","Set up your web page and set up Bootstrap,Create a container for your elements using HTML,""Create three boxes for User name, Password and Email Address"",Use your CSS framework to apply a style to the options,Add text indicating the user has successful signed up when they hit Sign Up","NodeJS,React,Front End,CSS","# Building an Sign Up form with a CSS Framework
+  
+The humble gatekeeper to any website is the Sign Up form. It is also one of the most critical parts of the website. Understandably, people who create websites want people to sign up to them so it's wise to keep log in pages which look exactly the same as every other website. CSS Frameworks often come with designed buttons to help get this work done.
+  
+Your objective is to create a sign up for using a CSS framework of your choice. If you are struggling for ideas, use Bootstrap as it is the most popular.
+  
+### Notes
+  
+* The website doesn't actually need to sign users up - it's just a project to test out the power of CSS frameworks. That being said, a little bit of JS knowledge can help.
+
+## Requirements
+  
+* Your sign up form must have three Input forms: Username, Email Address and Password.
+* Your sign up form must have one button that says Sign Up
+* Your sign up form must be centered in the screen so it's obvious to the user and right in front of them. 
+* Your sign up form's elements must use the CSS framework elements
+  
+## Useful links and resources
+
+* [Bootstrap's documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
+## Inspiration
+  
+* [Here is some inspiration](https://dribbble.com/tags/sign_up_form) on your sign up form if you need it ",
+JavaScript,XWjZyZktJLhqRp,1,Dollars To Cents,1 week,Web Fundamentals,Practice,#72A8FF,"JavaScript is a popular language used in websites to create dynamic content. 
+
+JavaScript can literally be used to turn on and off elements up to processing lots of data and displaying them in a table (!) ","""Create a new HTML page, and create one text input and one button"",Create a function using JavaScript which takes the input (Dollars) and converts it into Cents. Assign it to the Button,Take the output of the function and print it somewhere on the user's screen",Javascript,"# Dollars To Cents
+
+Converting dollars to cents would enable you to practice your fundamental knowledge of programming. Loops, if conditions and a simple algorithm will be used.
+Your task is to let the user input a dollar value (float), assuming that it can also accept extra cents (ex. $2.75), and convert it into an integer (in this case, if $2.75 = 275). After this, convert into coins with the sub-type of dollars: penny, nickel, dime and quarter. Use an algorithm that would divide the dollar value to the four coin types, and output few coins as possible.
+
+The challenge: Try this without using any frameworks.
+
+(EX. If you have $0.58, I would have 4 coins: 2 quarters, 0 dimes, 1 nickel and 3 pennies)
+
+## Requirements
+
+* There should be two endpoints: /dollar and /cents
+* User can send a dollar value to the /dollar endpoint 
+* User can see the total cents from the converted dollar value
+
+## Bonus features
+
+* User can see how many were pennies, nickels, quarters and dimes from the total cents
+
+## Useful links and resources
+
+-   [Math functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+-   [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+-   [Money values in JavaScript](https://timleland.com/money-in-javascript/)
+
+## Example projects
+
+-   [Dollars to cents converter](https://github.com/LimonJuice322/Dollars-to-cents-converter)",
+Building and hosting a static website,agJ6KSmQG5mNtW,1,Your Personal Website,1 week,Web Fundamentals,Practice,#72A8FF,Your first big one! You are going ,"""Create a new webpage which has the words """"Test page"""" "",Set up a web hosting service,Put your website on the web hosting service,""Add your website to the demos section. Congratulations, you now are on the Internet""",Hosting,"# Hosting your personal website
+  
+Your personal website is an important landmark step in showing yourself on the internet 
+
+Your goal is to design a website which will be your personal website about you.
+
+### Notes
+  
+* Good portfolio websites tend to work on both mobile and desktop websites. Think about responsiveness
+
+## Requirements
+  
+* You will have to build a personal website saying who you are and that you are a web developer 
+* You will need to do this using a static website - so use JS / CSS / HTML
+* You may host this on Github pages or use another website hosting service 
+  
+## Useful links and resources
+
+* [How to build a portfolio website using Github pages](https://dev.to/carolmusyoka/how-to-create-a-simple-portfolio-with-github-pages-1ffd)
+* [How to host your website using AWS](https://aws.amazon.com/getting-started/hands-on/host-static-website/)
+
+## Example projects
+  
+Here is a personal website done [on Github](https://imfunniee.github.io/gitfolio/)",
+DevOps Prerequisites ,USzHBik8wcFCjg,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"DevOps is a growing area in a modern tech stack. DevOps engineers focus on shortening ""the systems development life cycle and provide continuous delivery with high software quality""","What is DevOps,What do DevOps engineers do?,When is DevOps appropriate for an organisation? ,The impact of DevOps and it's future,Why you should go into DevOps,Resources to try out DevOps,DevOps Open Source Bootcamp",DevOps Basics,"# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Operating Systems ,5w6GJtgt36E5pj,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"An operating system ( OS) is a group of computer programs, including device drivers, kernels, and other software that lets people interact with a computer. It manages computer hardware and software resources. It provides common services for computer programs. 
+
+DevOps engineers need to understand their operating systems inside and out in order to debug issues and make sure programs run well","Operating Systems and DevOps Introduction,Why knowledge of OS are useful in DevOps,Linux and DevOps,DevOps techniques using Linux,DevOps using Azure Tutorial,DevOps on the Cloud (AWS) Tutorial,DevOps comparisons across OS ,How Linux Operating System works","OS,Linux,Windows","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Command Line and Terminal ,m40Bzme58zmbIB,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"A means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines).
+
+DevOps engineers are familiar with CLI because it can lead to scripts and can often be a lot quicker than using the UI","CLI Introduction,Why CLI is useful for DevOps,Bash and DevOps Tutorial,Bash Tutorial,PowerShell (Windows) Tutorial,PowerShell and Devops Tutorial","Bash,Powershell","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Containers and Container Managment,xtbkhRKZdnB74g,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.,"What are containers,What is Docker,What is Kubernetes,Kubernetes Tutorial,Why is Docker and Kubernetes in demand,Containers and AWS - Tutorial","Docker,Kubernetes,Container","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Infrastructure As Code,eGSLTCzbAxdLAj,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools
+
+This is a rather new skill in the industry but has been very in demand as more organisations go cloud native","What is Infrastructure as Code (IaC),Why is IaC in demand,What is Terraform,Terraform Tutorial,Terraform - Advanced Topics","Terraform,AWS","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Web Servers,F5ss1RwV8ingnm,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,A web server is computer software and underlying hardware that accepts requests via HTTP or its secure variant HTTPS,Introduction to web servers,"Servers,Web Protocols","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Networking Security and Web Protocols,dIUiLTnuexJa5V,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,Agreed standards that the web uses to allow computers to talk to each other such as HTTPS and HTTP or TelNet,,Security,"# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+CI / CD ,xmlAGw0bM8UVh7,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of app development. 
+
+The main concepts attributed to CI/CD are continuous integration, continuous delivery, and continuous deployment. 
+
+CI/CD is a solution to the problems integrating new code can cause for development and operations teams ","CI/CD Introduction,What is CI/CD,Why is CI/CD in demand,Understanding use cases for CI/CD,CI/CD Tutorial with Circle CI,Automation with Jenkins - Tutorial","Continuous Integration ,Continuous Delivery ,Cloud","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Application Deployment Strategies,HMEayQAhHnRvmL,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"When you are ready to deliver software to your customer, you deploy it somewhere they can access. This skill is important in delivering software","""What does it mean to """"ship"""""",What are popular deployment strategies,What is Blue Green Deployment,Blue-Green deployment tutorial,Canary Deployment tutorial","Blue Green Deployment,Canary","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Monitoring ,QHhfw1vMB7JQkx,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"DevOps monitoring entails overseeing the entire development process from planning, development, integration and testing, deployment, and operations. 
+
+It involves a complete and real-time view of the status of applications, services, and infrastructure in the production environment. 
+Features such as real-time streaming, historical replay, and visualisations are critical components of application and service monitoring.","Monitoring Introduction,DevOps Monitoring techniques,Getting started with Grafana,Getting started with Elasticsearch",Monitoring,"# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",
+Cloud - AWS,d4OzzSuj3jvDp4,1,Coming Soon,1 week - 1 month,DevOps,Practice,#72A8FF,"Learning to work with the Cloud is probably the most in demand skill currently. Many web applications are hosted on cloud platforms and so, we recommend AWS as it's the most used provider in the world.","What is AWS,Why get an AWS certification?,Hello World on AWS","AWS,Cloud","Rapid Document Conversion 
+Objective: The goal is to quickly and accurately convert the document to the desired format as selected by the user.
+Data is everywhere around us and therefore we feel the need to convert this data into many formats from time to time. If you are a student or a working professional you must have come across the need to convert a document to pdf or excel to a word document or any other format. That’s what AWS Lambda is for.AWS Lambda allows us to develop an application that can convert documents from one format to the other very easily and conveniently. 
+The CloudConvert API can be use to automatically convert all files, added to a specific S3 bucket. 
+Here is how the process works:
+1. User will upload their Office Document to the S3 bucket.
+2. Now, the Lambda function will be triggered by the S3 bucket with uploaded files details.
+3. Lambda function will convert documents with LibreOffice.
+4. Lambda function will upload PDF to S3 Bucket after conversion.
+5. After uploading you can also write additional code to update details in the Database.
+",checked
+Chaos Engineering,d4OzzMB7JQkxs,1,Coming Soon,1 week - 1 month,DevOps,Practice,#72A8FF,A large role of DevOps is making sure applications are reliable - ensuring that your team can go to sleep on weekends without panicking ,,"Scaling,DR","# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",checked
+DevOps for scale,F5ss1RwxJa5V,1,Coming Soon,1 week,DevOps,Practice,#72A8FF,"So far, you have focussed on DevOps skills but mostly worked in isolation. What happens when millions of users are using your products like in top companies? ","What is the role of DevOps when working with scaling,Caching,AWS scaling techniques,Load balancing,Autoscaling",Scaling,"# Spelling it loud for those in the back
+  
+This is a hard topic to understand so your challenge to complete this skill is to simply play back the information in the form of a blog or a social media post.
+  
+### Notes
+  
+Your write up have to be public. This will give you an experience in technical writing
+
+## Requirements
+  
+1. Assimilate the information from your research and write a post explaining it back.
+2. Your audience should be the general public",checked
